@@ -1,0 +1,741 @@
+state,city,restaurant,item_as_listed,classic_blt,listed_price_usd,price_used_usd,place_size,status,reason,source_url
+AK,Anchorage,Snow City Cafe,BLT,yes,17.0,17.0,unknown,included,,https://snowcitycafe.mobilebytes.com/menu
+AK,Anchorage,Snow City Cafe,BLT,yes,13.8,13.8,unknown,excluded,Delivery price is for a different item or size,https://www.doordash.com/store/snow-city-cafe-anchorage-30918578/
+AK,Anchorage,Sara's Too (Sara's Sandwiches),# 9 BLT,yes,10.25,10.25,unknown,included,,https://order.online/store/-34522097/
+AK,Fairbanks,The Bakery Restaurant,BLT,yes,17.99,17.99,unknown,included,,https://order.online/store/the-bakery-restaurant-fairbanks-547602
+AK,Skagway,Glacial Coffeehouse,BLT,yes,16.0,16.0,unknown,included,,https://www.toasttab.com/local/order/glacialcoffeehouse
+AK,Anchorage,Bread & Brew Alaska,BLT Sandwich,no,13.0,13.0,unknown,excluded,Not the restaurant's own menu,https://www.allmenus.com/ak/anchorage/655353-bread-and-brew-alaska/menu/
+AK,Juneau,Sand Bar,Blt,yes,7.0,7.0,unknown,excluded,Not the restaurant's own menu,https://places.singleplatform.com/sand-bar-23/menu
+AK,Fairbanks,C&J's Drive In,BLT,yes,11.0,11.0,small_city,included,,https://order.toasttab.com/online/c-j-s-drive-in-2
+AK,Fairbanks,C&J's Drive In,BLT,yes,9.0,9.0,small_city,delivery,Third-party delivery menu (used only in the delivery comparison),https://order.toasttab.com/online/c-j-s-drive-in-2
+AK,Fairbanks,The Cookie Jar Restaurant,BLT,yes,17.0,17.0,small_city,included,,https://order.toasttab.com/online/the-cookie-jar-restaurant-1006-cadillac-court
+AK,Anchorage,Peanut Farm,BLT,yes,16.75,16.75,urban,included,,https://order.online/store/peanut-farm-anchorage-454925/
+AK,Kodiak,Henry's Great Alaskan Restaurant,Mile High BLT Sandwich,no,23.25,23.25,rural,included,,https://order.toasttab.com/online/henrys-great-alaskan-restaurant-inc-512-west-marine-way
+AK,Ketchikan,The Diner at the Landing (The Landing Hotel),BLT,yes,15.99,15.99,rural,included,,https://www.landinghotel.com/dining/the-diner-restaurant
+AK,Sitka,Coldwater Bar & Grill,Salmon BLT -- Local Favorite,no,29.0,29.0,rural,included,,https://ColdwaterBarAndGrill.net
+AL,Huntsville,Dallas Mill Deli,BLT,yes,7.19,7.19,unknown,included,,https://www.dallasmilldeli.net/lunch-menu/
+AL,Huntsville,Dallas Mill Deli,BLT Sandwich,yes,8.89,8.89,unknown,delivery,Third-party delivery menu (used only in the delivery comparison),https://huntsville.grubsouth.com/order/restaurant/dallas-mill-deli-menu/290
+AL,Huntsville,Dallas Mill Deli,BLT Sandwich,yes,8.89,8.89,unknown,excluded,Second price from a restaurant already counted,https://order.online/store/dallas-mill-deli-huntsville-30964975/?delivery=true&hideModal=true&redirected=true
+AL,Birmingham,Ken's BBQ,BLT Sandwich,yes,5.49,5.49,unknown,included,,https://www.toasttab.com/local/order/kens-bbq
+AL,Birmingham,Ashley Mac's,Pimento Cheese BLT Sandwich,no,10.5,10.5,unknown,included,,https://www.ashleymacs.com/menus/
+AL,Montgomery,Cahawba House,BLT Sandwich Lunch,no,10.0,10.0,unknown,excluded,Not the restaurant's own menu,https://www.allmenus.com/al/montgomery/575071-cahawba-house/menu/
+AL,Vestavia Hills,Diplomat Delicatessen & Spirits,The BST/BLT,yes,9.75,9.75,small_city,included,,https://diplomatdeli.com/menu/
+AL,Vestavia Hills,Diplomat Delicatessen & Spirits,Pimento Cheese BLT,no,11.25,11.25,small_city,excluded,Second price from a restaurant already counted,https://diplomatdeli.com/menu/
+AL,Wetumpka,Coaches Corner Sports Bar & Grill,BLT,yes,10.49,10.49,rural,included,,https://coachescornersportsbarandgrill.com/lunch-menu/
+AL,Guntersville,Pier 1939 Purveyor,BLT,yes,13.0,13.0,rural,included,,https://pier1939purveyor.com/optimamedia/products/P_48397/0d356657-6ba8-4050-b396-472503cf9458.pdf
+AL,Auburn,Chappy's Deli,Loaded BLT,no,10.95,10.95,urban,included,,https://www.chappysdeli.com/files/diningroommenu-0326-pdf.pdf
+AL,Montgomery,5 Points Deli & Grill,Classic BLT,yes,12.25,12.25,urban,included,,https://order.5pointsdeliandgrill.com/order
+AL,Enterprise,The Butcher's Daughter,Idgie,no,9.99,9.99,small_city,included,,https://tbddeliandmarket.com/menu
+AL,Huntsville,Good Company Cafe,California BLT,no,12.0,12.0,urban,excluded,Menu price dated before 2025,https://goodcompany-cafe.com/wp-content/uploads/2026/06/2024-Brunch-Menu-legal-size_as-is18June.pdf
+AL,Foley,Magnolia Meat and Grocery,BLT,yes,14.0,14.0,small_city,included,,https://www.toasttab.com/local/order/magnolia-meat-and-grocery-20733-miflin-road-unit-b
+AR,Little Rock,Izzy's,Super BLT (it really is SUPER) w/ chips,no,11.89,11.89,unknown,included,,https://www.izzyslittlerock.com/_files/ugd/594873_991d1626b8ef4c73857839e0db935631.pdf
+AR,Little Rock,Community Bakery & Cafe (1200 Main St),"Bacon, Lettuce & Tomato",yes,9.5,9.5,unknown,included,,https://www.toasttab.com/local/order/community-bakery-downtown-1200-main-street/r-787b8fa6-8be9-4c88-b8b5-d89686b7d040
+AR,Conway,Cross Creek Sandwich Shop,Cheddar BLT,no,12.75,12.75,unknown,included,,https://order.toasttab.com/online/cross-creek-sandwich-shop-1003-oak-st
+AR,Conway,Cross Creek Sandwich Shop,Half Ch. BLT (White or Wheat),no,9.25,9.25,unknown,excluded,Second price from a restaurant already counted,https://order.toasttab.com/online/cross-creek-sandwich-shop-1003-oak-st
+AR,Searcy,Midnight Oil Coffeehouse & Cafe,BRUNCHY BLT,no,11.0,11.0,unknown,included,,https://www.midnightoilcoffeehouse.com/
+AR,Fayetteville,Little Bread Company,BLT,yes,9.5,9.5,urban,included,,https://www.littlebread.com/
+AR,Little Rock,Jimmy's Serious Sandwiches,BLT WRAP,no,11.85,11.85,urban,included,,https://jimmysserioussandwiches.com/
+AR,Hot Springs Village,Home Plate Cafe & Bakery,BLT Sandwich,yes,11.99,11.99,small_city,included,,https://www.toasttab.com/homeplatecafeandbakery
+AR,Little Rock,Homer's Kitchen Table,BECCA'S BLT,yes,13.0,13.0,urban,included,,https://order.toasttab.com/online/homers-kitchen-table-11121-n-rodney-parham-rd-suite-1a
+AR,Bentonville,Ozark Mountain Bagel Co (Central),#8 Razorback BLT Sandwich,yes,8.2,8.2,urban,included,,https://order.toasttab.com/online/ozark-mountain-bagel-central-105-west-central-avenue
+AR,Eureka Springs,The Spring On Main,BLT,yes,15.0,15.0,rural,included,,https://www.toasttab.com/local/order/the-spring-on-main-55-b-south-main-st
+AR,Little Rock,Bray Gourmet (323 Center St),BLT,yes,7.99,7.99,urban,included,,https://www.toasttab.com/local/order/bray-gourmet-deli-323-center-st
+AZ,Tucson,4th Avenue Delicatessen,B.L.T.,yes,9.0,9.0,unknown,included,,https://www.4thavedeli.com/menu
+AZ,Tucson,4th Avenue Delicatessen,Brie-LT,no,13.15,13.15,unknown,excluded,Delivery price is for a different item or size,https://www.doordash.com/store/4th-avenue-delicatessen-tucson-171026/25571346/
+AZ,Tucson,4th Avenue Delicatessen,BLT,yes,9.0,9.0,unknown,excluded,Second price from a restaurant already counted,https://order.toasttab.com/online/4th-avenue-delicatessen-425-n-4th-ave
+AZ,Gilbert,Matt's Big Breakfast,BLT,yes,14.49,14.49,unknown,included,,https://order.toasttab.com/online/mattsbigbreakfast-gilbert
+AZ,Phoenix,The Toasted Owl Cafe (Uptown Phoenix),BLAT,yes,16.0,16.0,unknown,included,,https://www.toasttab.com/toasted-owl-phx-location-300-west-camelback-road
+AZ,Flagstaff,The Toasted Owl Cafe (Downtown Flagstaff),BLAT,yes,15.34,15.34,unknown,included,,https://www.toasttab.com/the-toasted-owl-cafe-downtown
+AZ,Flagstaff,Brandy's Restaurant & Bakery,BREAKFAST BLT,no,16.5,16.5,unknown,included,,https://www.brandysrestaurant.com/menu
+AZ,Tucson,Kneller's Delicatessen,BLT,yes,14.0,14.0,urban,included,,https://www.knellersdelicatessen.com/menu
+AZ,Tucson,Sausage Deli,BLT,yes,10.95,10.95,urban,included,,https://www.sausagedeli.com/menu-1
+AZ,Tucson,Toast 101,101 B.L.T. Sandwich,yes,14.0,14.0,urban,included,,https://toast101.com/menu/
+AZ,Black Canyon City,Rock Springs Cafe,B.L.T.,yes,14.0,14.0,rural,included,,https://rockspringscafe.com/menu/
+AZ,Dewey-Humboldt,Steve and Kathy's Blue Hills Cafe,B.L.T. (Choice of Bread),yes,11.99,11.99,rural,included,,https://bluehillscafeaz.com/index.php/lunch-menu/
+AZ,Eagar,Trailriders Family Restaurant & Bar,B.L.T. on Grilled White Bread,yes,12.99,12.99,rural,included,,http://www.trailridersfamilyrestaurantandbar.com/wp-content/uploads/2026/06/Trailriders_LunchDinner_042026.pdf
+AZ,Sedona,Coffee Pot Restaurant,"J. Bacon, Lettuce and Tomato",yes,11.25,11.25,rural,included,,https://coffeepotsedona.com/menu/
+AZ,Cottonwood,Old Town Red Rooster Cafe,BLTA Sandwich,no,14.0,14.0,small_city,included,,https://oldtownredroostercafe.com/menu
+CA,San Diego,Big Front Door,Lgbt,no,13.75,13.75,unknown,included,,https://bfdsandiego.com/menu.html
+CA,Los Angeles,Canter's Deli,B.L.T.A,no,17.95,17.95,unknown,included,,https://cantersdeli.com/menu
+CA,Los Angeles,Fred 62,B.L.T.A.,no,18.62,18.62,unknown,included,,https://fred62.com/menu
+CA,Santa Cruz,Iveta Westside,BLT,no,14.25,14.25,unknown,included,,https://www.toasttab.com/local/order/iveta-gourmet-inc-2125-delaware-ave-ste-f
+CA,Santa Cruz,Iveta Campus,BLT,no,14.25,14.25,unknown,excluded,Same restaurant brand already counted in this city,https://www.toasttab.com/local/order/iveta-campus-llc-1156-high-st
+CA,Los Angeles,The BLT Shop: Sandwiches and Salads,The Traditional BLT,yes,16.0,16.0,unknown,excluded,Not the restaurant's own menu,https://places.singleplatform.com/the-blt-shop-sandwiches-and-salads/menu
+CA,Santa Cruz,Linda's Seabreeze Cafe,Blt,yes,6.95,6.95,unknown,excluded,Not the restaurant's own menu,https://places.singleplatform.com/lindas-seabreeze-cafe/menu
+CA,Los Angeles,FundamentaLLA,BLT Sandwich,no,12.0,12.0,unknown,excluded,Not the restaurant's own menu,https://www.allmenus.com/ca/los-angeles/338013-fundamentalla/menu/
+CA,Cotati,Cozzy Market & Deli,California BLT,no,10.0,10.0,rural,included,,https://www.cozzymarketdeli.com/
+CA,Mount Shasta,Lilys,LILYS BLT,no,17.0,17.0,rural,included,,https://lilysrestaurant.com/menus
+CA,Twentynine Palms,Cactus Trails Cafe,B.L.T,yes,9.39,9.39,small_city,included,,https://www.cactustrailscafe.com/menu
+CA,Palm Springs,Sherman's Deli & Bakery,BLT SPECIAL,yes,17.95,17.95,small_city,included,,https://shermansdeli.com/wp-content/uploads/2025/11/Shermans-Deli-Menu-10-25_Web-compressed.pdf
+CA,Redding,Dill's Deli,B.L.T,yes,14.25,14.25,urban,included,,https://www.dillsdeli.com/menu
+CA,Redding,Country Kitchen,B.L.T.,yes,12.99,12.99,urban,included,,https://www.countrykitchenredding.com/menu
+CA,Fresno,Dervo's Deli and Grill,BLT,yes,10.66,10.66,urban,included,,https://dervosdeli.com/menu
+CA,Petaluma,Charley's Wine Country Deli,#13 BLT,yes,13.99,13.99,urban,included,,https://www.charleyswinecountrydeli.com/menu
+CA,Petaluma,Charley's Wine Country Deli,#13 BLT Amped,no,16.99,16.99,urban,excluded,Second price from a restaurant already counted,https://www.charleyswinecountrydeli.com/menu
+CA,Lincoln,Sterling Cafe,BLT Sandwich,yes,16.99,16.99,urban,included,,https://sterlingcafelincolnca.com/menu?item=blt-sandwich-JA42&matchItemName=BLT%20Sandwich
+CA,Lincoln,Waffle Shop,BLT,yes,14.95,14.95,urban,included,,https://www.waffleshop.co/menu-1
+CA,Clovis,The Red Caboose Cafe,Valley Express,yes,16.69,16.69,urban,included,,https://order.toasttab.com/online/the-red-caboose-cafe-5054-n-academy-ave-ste-e
+CA,Ventura,Pete's Breakfast House,B.L.T.,yes,12.95,12.95,urban,included,,https://www.petesbreakfasthouse.com/online-ordering-1
+CA,Ukiah,Stars Restaurant,BLT Plus,no,19.95,19.95,small_city,included,,https://starsukiah.com/menu
+CO,Denver,Sam's No. 3 (Downtown),B.B.B.B.B.L.T.,no,13.99,13.99,unknown,included,,https://samsno3.com/menus/Menu-Downtown.pdf
+CO,Denver,Blackbelly Denver (4324 W 41st Ave),Blackbelly BLT,no,14.0,14.0,unknown,included,,https://www.toasttab.com/local/order/blackbelly-denver-4324-w-41st-ave
+CO,Denver,Blackbelly Denver (4324 W 41st Ave),Blackbelly BLT,no,17.89,17.89,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/local/order/blackbelly-denver-4324-w-41st-ave
+CO,Fort Collins,Choice City,BLT,yes,16.0,16.0,unknown,included,,https://order.online/store/choice-city-fort-collins-34414417/
+CO,Durango,Tom's Deli,#5 Elevated BLT,no,9.25,9.25,unknown,included,,https://www.toasttab.com/local/order/toms-deli-1802-main-ave
+CO,Boulder,Lindsay's Boulder Deli @ Haagen-Dazs,Broadway BLT Sandwich,yes,10.99,10.99,unknown,included,,https://www.toasttab.com/lindsays-boulder-deli-haagen-dazs
+CO,Fort Collins,Silver Grill Cafe,BLT,yes,10.99,10.99,unknown,excluded,Menu price dated before 2025,https://www.allmenus.com/co/fort-collins/370224-silver-grill-cafe/menu/
+CO,Gunnison,Powerstop,BLT,no,14.0,14.0,rural,included,,https://www.the-powerstop.com/menu
+CO,Telluride,The Butcher & The Baker,BLT,no,15.0,15.0,rural,included,,https://butcherandbakercafe.com/menu/
+CO,Winter Park,Rudi's Deli,5. The Bacon Girl,no,15.5,15.5,rural,included,,http://www.rudisdeli.com/
+CO,Silverthorne,Enza's Delicatessen & Market,Leaning Tower of BLT,no,15.0,15.0,rural,included,,https://www.toasttab.com/enzas
+CO,Glenwood Springs,Chomp's Deli,"Bacon, Lettuce and Tomato",yes,8.25,8.25,small_city,included,,http://chompsdeli.com/menu/
+CO,Monument,Black Forest Foods Cafe & Delicatessen,BLT Chef Special,yes,17.75,17.75,small_city,included,,https://order.plento.io/restaurant/black-forest-foods
+CO,Mancos,Moondog Cafe & Bakery,BLAT,no,14.5,14.5,rural,included,,https://moondogcafe.com/menus
+CO,Cortez,The Farm Bistro,BLT,no,14.0,14.0,rural,included,,http://www.thefarmbistrocortez.com/wp-content/uploads/2026/09/lunch-2026-v.2.pdf
+CO,Idaho Springs,Two Brothers Deli,Mt. Bierstadt B.L.A.T.,no,15.79,15.79,rural,included,,https://www.toasttab.com/two-brothers-deli/v2/online-order
+CO,Elizabeth,Doug's Diner (Elizabeth),BLT,yes,13.75,13.75,rural,included,,https://www.dougsdinerelizabeth.com/
+CO,Wiggins,Stub's Gas & Oil,BLT,yes,8.99,8.99,rural,included,,https://www.stubsgasandoil.com/menu
+CO,Colorado Springs,The Omelette Parlor,The Cog Train,yes,10.99,10.99,urban,included,,https://omeletteparlorcs.com/op-some-kinda-sandwiches/
+CO,Colorado Springs,Gunther Toody's Diner,Miles Davis BLT*,yes,12.49,12.49,urban,included,,https://images.getbento.com/accounts/7ea0f9b080909c844de89f0707e67eb9/media/FxZQTHqRSYycY47sPdzF_Gunther-Toodys-Menu.pdf
+CO,Grand Junction,Berna B's Restaurant,BLTA,no,14.5,14.5,urban,included,,https://bernabs.com/restaurant/lunch-menu/
+CO,Grand Junction,The Cutting Board,CAESAR BLT WRAP,no,11.5,11.5,urban,included,,https://www.thecuttingboardsandwichshop.com/menu
+CO,Pueblo,Rocco's Riverside Deli,CALIFORNIA BLT,no,12.49,12.49,urban,included,,https://www.rdeli.com/menu
+CO,Greeley,Out of the Blue,Pesto BLT,no,13.95,13.95,urban,included,,https://www.toasttab.com/out-of-the-blue-4111-centerplace-dr-d
+CT,West Hartford,Lox Stock & Bagels of West Hartford,BLT Sandwich,yes,9.75,9.75,unknown,included,,https://order.spoton.com/so-lox-stock-and-bagels-22037/west-hartford-ct/676def36fe996f1081f7f5b7
+CT,Bridgeport,Nick's Diner,BLT,yes,8.99,8.99,unknown,included,,https://order.online/store/-24436909/
+CT,New Haven,Cody's Diner,BLT,yes,7.95,7.95,unknown,included,,https://order.online/store/cody's-diner-new-haven-166269/
+CT,Norwalk,BLT Deli,Classic BLT with Mayo,yes,5.5,5.5,unknown,included,,https://norwalkbltdeli.com
+CT,Enfield,Elm Street Deli,BLT Supreme,no,7.99,7.99,unknown,included,,https://www.toasttab.com/local/order/elm-street-deli-100-elm-street
+CT,North Haven,State Street Cafe,B.L.T,yes,14.99,14.99,unknown,delivery,Third-party delivery menu (used only in the delivery comparison),https://www.doordash.com/store/state-street-cafe-north-haven-149025/
+CT,Falls Village,Mountainside Café,BLT,yes,13.0,13.0,rural,included,,https://orders.cake.net/11264086
+CT,Sharon,J.P. Gifford Cafe & Catering Company Sharon,BLT,yes,12.0,12.0,rural,included,,https://www.toasttab.com/j-p-gifford-sharon/v3
+CT,Waterbury,Mary's Diner,B.L.T.,yes,12.95,12.95,urban,included,,http://marysdiners.com/images/Marys_Menu_2-10-25.pdf
+CT,Milford,Seeley's Deli,BBLT,no,8.75,8.75,urban,included,,https://seeleysdeli.smartonlineorder.com/
+CT,Norwalk,Chez Jack,BLT Bagel,no,14.0,14.0,urban,included,,https://order.toasttab.com/online/chez-jack-666-main-avenue
+CT,Woodbury,Country Eatery,BLT,yes,10.99,10.99,small_city,included,,https://country-eatery.com/
+CT,Wethersfield,The Cove Deli,BLT,yes,12.0,12.0,small_city,included,,https://thecovedeli.com/menu
+CT,Wilton,Orem's Diner,BLT,yes,7.99,7.99,small_city,included,,https://oremsdiner.com/menu/
+CT,Monroe,Last Drop Coffee Shop,BLT WITH AVOCADO,no,9.49,9.49,small_city,included,,https://www.lastdropcoffeeshop.com/menu/
+CT,Newtown,Newtown General Store,BLT,yes,6.25,6.25,small_city,included,,https://newtowngeneralstore.com/menu/
+CT,Sandy Hook,Misty Vale Deli,BLT,yes,6.25,6.25,small_city,included,,https://mistyvaledeli.com/our-menu/
+DE,Wilmington,The Bluebird (500 Delaware Avenue),BLT,yes,8.0,8.0,unknown,included,,https://www.toasttab.com/local/order/bluebird-500-delaware-avenue
+DE,Cheswold,"Poliseno's Pizzeria (Cheswold, Main St)",* BLT Sandwich,yes,8.99,8.99,unknown,included,,https://www.toasttab.com/local/order/polisenos.cheswold
+DE,Rehoboth Beach,Rehoboth Diner,BLT,yes,10.49,10.49,unknown,included,,https://www.rehobothdiner.com/lunch-dinner-menu-burgers-chicken-pasta-steak-seafood-sandwiches-italian
+DE,Rehoboth Beach,Summer House,Cali BLT,no,16.0,16.0,unknown,included,,https://www.toasttab.com/local/order/summer-house
+DE,Rehoboth Beach,Rehoboth Diner,BLT,yes,10.49,10.49,unknown,excluded,Not the restaurant's own menu,https://slicelife.com/restaurants/de/rehoboth-beach/19971/rehoboth-diner/menu
+DE,Wilmington,Lucky's Coffee Shop and Restaurant,BLT,yes,10.0,10.0,unknown,included,,https://www.toasttab.com/luckys-coffee-shop/v3
+DE,Wilmington,Pickles & Chip's,BLT,yes,10.0,10.0,unknown,included,,https://picklesandchipsde.com/lunch-menu/
+DE,Wilmington,Crossroads Restaurant,BLT,yes,10.0,10.0,unknown,included,,https://order.toasttab.com/online/crossroads-restaurant-4579-kirkwood-hwy
+DE,Bethany Beach,Bethany Diner,BLT Sandwich,yes,11.95,11.95,unknown,included,,https://bethanydiner.com/menu
+DE,Newark,Newark Deli & Bagels,BLT,yes,8.35,8.35,unknown,included,,https://order.spoton.com/6584c1b64042f63adc9b605e
+DE,Newark,Claymont Steak Shop (Newark),BLT Sandwich,yes,9.0,9.0,unknown,included,,https://order.spoton.com/so-claymont-steak-shop-29187/newark-de/6a2c5981a241467bea08acca
+DE,Newark,PureBread Deli,Breakfast B.L.T.,no,9.5,9.5,unknown,included,,https://purebreaddeli.com/menu
+DE,Smyrna,Smyrna Diner,BLT,yes,9.95,9.95,unknown,included,,https://www.toasttab.com/smyrna-diner/v3
+DE,New Castle,The Legend Restaurant and Bakery,Breakfast BLT,no,14.99,14.99,unknown,included,,https://thelegendnc.com/new-castle-the-legend-restaurant-and-bakery-food-menu
+DE,Rehoboth Beach,Arena's Deli - Downtown Rehoboth,Stacked BLT,yes,15.0,15.0,unknown,included,,https://order.toasttab.com/online/arenas-downtown-rehoboth
+DE,Bethany Beach,The Penguin,BLT,yes,13.0,13.0,unknown,included,,https://order.toasttab.com/online/the-penguin
+DE,Bethany Beach,Moe's Deli,THE BLT,yes,11.99,11.99,unknown,included,,https://www.jetfood.com/restaurant/moes-deli-33260-coastal-hwy-bethany-beach/35
+FL,Sarasota,Yoder's Restaurant (Amish Village),"Bacon, Lettuce & Tomato",yes,9.95,9.95,unknown,included,,https://www.yodersrestaurant.com/restaurant/lunch-and-dinner-menu/
+FL,Sarasota,New Pass Grill & Bait Shop,BLT,yes,12.99,12.99,unknown,included,,https://newpassgrill.com/lunch-dinner
+FL,Tampa,Coffee Me (W Busch Blvd),BLT with Chips,yes,12.99,12.99,unknown,included,,https://order.online/store/-23446895
+FL,Winter Park (Orlando metro),240 Rose Cafe,I Love BLT,no,17.5,17.5,unknown,included,,https://order.toasttab.com/online/240rosecafe
+FL,Punta Gorda,Nino's Bakery,BLT,yes,12.99,12.99,small_city,included,,https://ninosbakery.us/menu/
+FL,Panama City,Waffle Shoppe,BLT Sandwich,yes,5.25,5.25,small_city,included,,https://waffleshoppepanamacity.com/menu
+FL,Miami,Toasted Bagelry & Deli (Midtown),The Alton BLT,yes,19.99,19.99,urban,included,,https://www.toastedbagelry.com/menu
+FL,Tampa,Barrow's Gourmet Deli,Bacon Lettuce Tomato (B.L.T.),yes,12.99,12.99,urban,included,,http://www.barrowsgourmet.com/menu.html
+FL,Gainesville,43rd Street Deli & Breakfast House,BLT,yes,12.99,12.99,urban,included,,https://www.43rdstreetdeli.com/lunch
+FL,Ocala,Albelo's Sub Shop,"FRIED GREEN TOMATO BLT 8""",no,9.95,9.95,urban,included,,https://www.toasttab.com/albelossubshop/v3/
+FL,North Port,North Port Subs,B.L.T,yes,12.5,12.5,urban,included,,https://northportsubs.com
+FL,Largo,Seminole Subs & Gyros,B.L.T.,yes,9.4,9.4,urban,included,,https://seminolesubs.com/menu/
+FL,Bowling Green,Gator's Pizzas and More,POS BLT Sub Sandwich,yes,10.99,10.99,rural,included,,https://order.toasttab.com/online/gator-pizzas-more-131-coconut-st
+FL,Flagler Beach,Golden Lion Cafe,Mahi Mahi BLT,no,19.75,19.75,rural,included,,http://www.goldenlioncafe.com/menu/golden_lion_menu_full.pdf?v=26.4
+FL,Crawfordville,Breakfast Station (Crawfordville),JIM'S BLT,yes,10.99,10.99,rural,included,,https://www.breakfaststationcentral.com/menus/lunch-menu?location=breakfast-station-beverly-hills-2
+FL,Daytona Beach,Monkey Morning Cafe,THICK CUT BLT,yes,15.0,15.0,urban,included,,https://monkeymorningcafe.com/wp-content/uploads/2026/07/Monkey-Morning-In-House-Menu_2026.pdf
+FL,Palm Beach,Buccan Sandwich Shop (Palm Beach window),B L T,yes,17.25,17.25,unknown,included,,http://toasttab.com/buccan-sandwich-shop-350-south-county-road
+FL,Palm Bay,Mash Hoagies,#17 B.L.T. Hoagie,yes,12.99,12.99,urban,included,,https://mashhoagies.com/menu
+FL,Fort Lauderdale,The Floridian Diner,BLT Sandwich,yes,14.0,14.0,urban,included,,https://thefloridiandiner.com/food-menu
+FL,West Palm Beach,Gun Club Cafe,B.L.T.,yes,11.99,11.99,urban,included,,https://www.gunclubcafe.com/lunch-menu
+FL,Key West,Stock Rock Cafe,TURKEY BLT,no,14.95,14.95,small_city,included,,https://stockrockcafe.com
+GA,Atlanta,Ollie's Market & Deli,BLT,yes,9.99,9.99,unknown,included,,https://www.toasttab.com/local/order/olliesmarket/
+GA,Atlanta,The Silver Skillet,B.L.T.,yes,12.95,12.95,unknown,included,,https://www.thesilverskillet.com/wp-content/uploads/2025/02/Lunch-menu-2025.pdf
+GA,Savannah,Coffee Deli,BLT,yes,13.0,13.0,unknown,included,,https://order.online/store/-30943748/
+GA,Augusta,Fat Man's Mill Cafe,BLT,yes,9.98,9.98,unknown,included,,https://www.toasttab.com/local/order/fat-mans-mill-cafe
+GA,Decatur,Kelly's Market & Deli,BLT Pocket,no,8.5,8.5,unknown,included,,https://www.toasttab.com/local/order/kellysmarket
+GA,Augusta,Fat Man's Mill Cafe,Fried Green Tomato BLT,no,11.98,11.98,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/local/order/fat-mans-mill-cafe
+GA,Augusta,Fat Man's Mill Cafe,Marco's Chicken Tender BLT Wrap,no,11.98,11.98,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/local/order/fat-mans-mill-cafe
+GA,Savannah,Sunrise Restaurant (Chatham Parkway),B.L.T.,yes,8.95,8.95,urban,included,,https://order.toasttab.com/online/sunrise-chatham-1-southern-oaks-court-suite-300
+GA,Savannah,Clary's Cafe,"Bacon, Lettuce & Tomato",yes,10.99,10.99,urban,included,,https://www.claryscafe.com/
+GA,Atlanta,OK Cafe (West Paces Ferry),BLT,yes,10.99,10.99,urban,included,,https://order.online/store/ok-cafe-35154/en-US
+GA,Fayetteville,Broadway Diner,BLT,yes,10.5,10.5,small_city,included,,https://img1.wsimg.com/blobby/go/43339da3-737a-453f-b4cc-a3be9805d989/The%20New%20menu%202025.pdf
+GA,Athens,The Grill,BLT,yes,6.95,6.95,urban,included,,https://order.toasttab.com/online/the-grill-athens-ga-171-college-ave
+GA,Lavonia,211 Main Street Restaurant & Bakery,BLT SANDWICH,yes,12.99,12.99,rural,included,,https://www.211mainstreet.com/Menu
+GA,Lavonia,J Peters Grill & Bar,SALMON BLT *,no,15.99,15.99,rural,included,,https://jpetersgrill.com/menu/
+GA,Savannah,Kayak Kafe,Smoked Gouda & Fried Egg BLT,no,15.25,15.25,urban,included,,https://www.eatkayak.com/s/BRUNCH-menu-2026.pdf
+HI,Hilo,Hawaiian Style Cafe (Hilo),BLT,yes,14.95,14.95,unknown,included,,https://www.toasttab.com/local/order/hawaiianstylecafe
+HI,Honolulu,Cafe Kaila (Market City),BLT,yes,15.0,15.0,unknown,included,,https://www.cafe-kaila-hawaii.com/
+HI,Honolulu,Olena Cafe,BLT,no,13.0,13.0,unknown,included,,https://olenacafe.com/menu/
+HI,Honolulu,Timmy T's Gourmet Grinders (Kapahulu),Timmy T BLT,no,11.99,11.99,unknown,included,,https://www.toasttab.com/local/order/timmy-t-s-kapahulu-888-kapahulu-street
+HI,Kailua,Timmy T's Gourmet Grinders (Kailua),Timmy T BLT,no,11.99,11.99,unknown,included,,https://order.toasttab.com/online/timmytsgourmetgrinders-best-sandwich-shop-kailua-hawaii-food-delivery-and-catering
+HI,Hilo,Hawaii BBQ Deli (Hilo),B.L.T,yes,7.99,7.99,unknown,excluded,Not the restaurant's own menu,https://www.beyondmenu.com/56273/hilo/hawaii-bbq-deli-hilo-hilo-96720.aspx
+HI,Aiea,Jessica's Kitchen,BLT Sandwich,yes,17.99,17.99,small_city,included,,https://jessicaskitchen808.com/menu
+HI,Kailua-Kona,Island Ono Loa Grill,BLT,yes,16.49,16.49,small_city,included,,https://www.toasttab.com/ono-loa-grill-kona
+HI,Aiea,Pancakes & Waffles (Waimalu/Aiea),BLT,yes,16.75,16.75,small_city,included,,https://img1.wsimg.com/blobby/go/27b98655-29a2-49b1-b377-e90ffaeda372/2025_05%20WEBSITE%20version%20START%20HERE.pdf
+HI,Volcano,Lava Rock Cafe,B.L.T,yes,18.0,18.0,rural,included,,https://lavarock.cafe/menu
+HI,Honolulu,Sprout Sandwich Shop,The Crater,no,15.5,15.5,urban,included,,https://sprout-sandwich-shop.square.site/
+IA,Des Moines,Drake Diner,BLT,yes,13.99,13.99,unknown,included,,https://drakediner.com/lunch/
+IA,Des Moines,Waveland Cafe,BLT,yes,10.5,10.5,unknown,included,,https://www.wavelandcafedsm.com/des-moines-waveland-cafe-food-menu
+IA,Des Moines,University Library Cafe,BLT,yes,11.0,11.0,unknown,included,,https://www.toasttab.com/local/order/university-library-cafe-3506-university-ave
+IA,Iowa City,Bluebird Diner,BLT,no,11.0,11.0,unknown,included,,https://www.toasttab.com/local/order/bluebird-diner-330-e-market-st
+IA,Ankeny,Main Street Cafe & Bakery,BLT,yes,13.75,13.75,unknown,included,,https://www.toasttab.com/local/order/main-street-cafe-bakery-2510-sw-white-birch-dr-ste-1-amp-2
+IA,Des Moines,The Iowa Taproom,Blackened Salmon BLTA,no,16.0,16.0,unknown,included,,https://www.toasttab.com/local/order/theiowataproom
+IA,Ankeny,Main Street Cafe & Bakery,Turkey Avocado BLT (Cold),no,14.95,14.95,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/local/order/main-street-cafe-bakery-2510-sw-white-birch-dr-ste-1-amp-2
+IA,Ankeny,Ankeny Diner,BLT,yes,11.99,11.99,urban,included,,https://ankeny-diner.com/food-menu
+IA,Cedar Rapids,Cross Roads Bistro,BLT Sandwich,yes,10.5,10.5,urban,included,,https://crossroadsbistro.com/menu
+IA,Crescent,Henry's Diner,BLT,yes,15.95,15.95,rural,included,,https://www.henrysdineriowa.com/lunch-and-dinner
+IA,Osceola,Mayberry's Coffee House & Eatery,BLT,yes,7.95,7.95,rural,included,,https://mayberryseatery.com/menu
+IA,Lake Park,Rise & Grind Bakery & Kitchen,BLT (on toast),yes,6.75,6.75,rural,included,,https://order.toasttab.com/online/rise-and-grind-bakery-and-kitchen-211-market-st
+IA,Central City,Parlor on Main,BLT (wrap),no,8.5,8.5,rural,included,,https://www.parloronmain.com/menu
+IA,Grinnell,Prairie Canary Restaurant and Bar,Fried Green Tomato BLT (VP),no,17.0,17.0,rural,included,,https://www.prairiecanary.com/lunch
+IA,Springville,Sally's On Broadway,BLT,yes,8.89,8.89,rural,included,,https://sallysonbroadway.net/wp-content/uploads/2025/10/PER_3788478_SallysOnBroadway_High.pdf
+IA,Grinnell,West Side Family Restaurant,BLT,yes,6.95,6.95,rural,included,,https://www.grinnellwestside.com/_files/ugd/5c8f47_cf125810e1b64390b11518a39ae1feb5.pdf
+IA,Rock Valley,Cedar Rock Grill,"BACON, LETTUCE, TOMATO",yes,12.99,12.99,rural,included,,https://cedarrockgrill.com/menu
+IA,Osceola,Iron Horse Neighborhood Grill,BLT,yes,12.99,12.99,rural,included,,https://www.ironhorseneighborhoodgrill.com/_files/ugd/afd070_2e7bf922826c48f39d81f48a2a3e7c47.pdf
+ID,Idaho Falls,North Hi-Way Cafe,Country BLT,yes,10.95,10.95,unknown,included,,https://northhiwaycafe.com/cafe-menu
+ID,Boise,Deli George,B.L.T. - CA,no,15.79,15.79,unknown,included,,https://deligeorge.com/boise-deli-george-food-menu
+ID,Boise,Big Bun Drive In,BLT,yes,6.99,6.99,unknown,included,,https://order.toasttab.com/online/bigbundrivein
+ID,Coeur d'Alene,Seasons of Coeur d'Alene Fresh Grill & Bar,B.L.T.,no,16.0,16.0,unknown,included,,https://www.toasttab.com/local/order/seasonsofcda
+ID,Moscow,The Breakfast Club,BLT,yes,10.5,10.5,unknown,included,,https://thebreakfastclubmoscow.com/menu
+ID,Boise,Goldy's Breakfast Bistro,Sourdough BLT,no,17.95,17.95,unknown,included,,http://goldysbreakfastbistro.com/
+ID,Twin Falls,The Cove,BLT,yes,10.49,10.49,unknown,included,,https://thecoveoftwinfalls.com/menu/lunch-dinner/
+ID,Bellevue,Mahoney's Bar and Grill,BLTCA,no,13.95,13.95,unknown,included,,https://mahoneysbarandgrill.com/wp-content/uploads/2025/11/2025-11-Mahoney-Menu.pdf
+ID,Eagle,Old State Saloon,Breakfast B.L.T.,no,12.0,12.0,unknown,included,,https://order.toasttab.com/online/old-state-saloon
+ID,Ketchum,The Kneadery,THE BUDDY MURFEY BLT,no,15.5,15.5,unknown,included,,https://www.kneadery.com/lunch-menu/
+ID,Salmon,Buddy's (Buddy's Family Dining),BLT,yes,11.95,11.95,unknown,delivery,Third-party delivery menu (used only in the delivery comparison),https://www.toasttab.com/local/order/buddysfamilydining
+IL,Chicago,Lou Mitchell's Restaurant & Bakery,BLT Club,yes,13.25,13.25,unknown,included,,https://www.loumitchells.com/menu/2-lunch
+IL,Chicago,Lou Mitchell's Restaurant & Bakery,BLT Club,yes,13.5,13.5,unknown,excluded,Second price from a restaurant already counted,https://ordering.chownow.com/order/24780/locations
+IL,Evanston,The Lucky Platter,BLT,yes,16.69,16.69,unknown,included,,https://order.toasttab.com/online/theluckyplatter
+IL,Evanston,Frida's Breakfast & Lunch,BLT + E,no,14.99,14.99,unknown,included,,https://fridasevanston.com/evanston-evanston-frida-s-evanston-food-menu
+IL,Evanston,The Fat Shallot,Truffle BLT,no,13.95,13.95,unknown,included,,https://direct.chownow.com/order/20536/locations/44423
+IL,Evanston,The Fat Shallot,Truffle BLT,no,16.0,16.0,unknown,delivery,Third-party delivery menu (used only in the delivery comparison),https://www.grubhub.com/restaurant/the-fat-shallot-2902-central-st-evanston/7182224
+IL,Arcola,Broomtown Cafe,Big BLT,yes,7.9,7.9,rural,included,,https://www.broomtowncafearcola.com/menu
+IL,Percy,Hemi's Cafe,BLT,yes,9.99,9.99,rural,included,,https://hemiscafe.com/menu/
+IL,East Peoria,Eggcellent Cafe,BLT,yes,11.0,11.0,small_city,included,,https://www.eggcellentcafe309.com/menueggcellent
+IL,Belleville,Main Street Cafe,BLT Club,yes,8.99,8.99,small_city,included,,https://www.bellevilleeats.com/menu
+IL,Dwight,Old Route 66 Family Restaurant,B.L.T.,yes,14.0,14.0,rural,included,,https://route66restaurant.com/optimamedia/products/P_27297/8920df39-9da2-460c-835e-acfc407cbb51.pdf
+IL,Litchfield,Jubelt's Bakery and Restaurant,BLT on THICK WHITE TOAST,yes,9.25,9.25,rural,included,,https://www.jubelts.com/jubeltsrestaurantmenus2025first.pdf
+IL,Litchfield,Jubelt's Bakery and Restaurant,TRIPLE DECKER DOUBLE BACON BLT,no,13.95,13.95,rural,excluded,Second price from a restaurant already counted,https://www.jubelts.com/jubeltsrestaurantmenus2025first.pdf
+IL,Peru,Four Star Family Restaurant,B.L.T. CLUB,no,11.5,11.5,rural,included,,https://fourstarrestaurantil.com/optimamedia/products/P_37164/92c0891b-e2d3-4255-861d-7a8f57f6999e.pdf
+IL,McLean,Dixie Family Restaurant,A.M. BLT,no,8.99,8.99,rural,included,,https://www.dixiecafee.net/_files/ugd/03854e_57c0b55b21294480b7efcafc0a4ace16.pdf
+IL,Rockford,Stockholm Inn,Classic BLT,yes,10.99,10.99,urban,included,,https://www.stockholminn.com/sites/default/files/Stockholm%20Inn-Menu_2Ver_8-5x14_4-25x14_Combine_ST76297.pdf
+IL,Urbana,Lazy Daisy Diner & Cafe,B.L.T.,yes,13.95,13.95,small_city,included,,https://lazydaisydiner.com/diner-menu/
+IN,Indianapolis,Sahm's Place,Indiana BLT,yes,14.49,14.49,unknown,included,,https://sahmsplace.com/menus/lunch-dinner/
+IN,Indianapolis,Sahm's Place,Indiana BLT,yes,14.49,14.49,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/sahms-place
+IN,Indianapolis,Fat Dan's Deli (SoBro),House Smoked BLT,yes,14.95,14.95,unknown,included,,https://www.fatdansdeli.com/original-menu
+IN,Indianapolis,Fat Dan's Deli (SoBro),House Smoked BLT Sandwich,yes,14.95,14.95,unknown,delivery,Third-party delivery menu (used only in the delivery comparison),https://www.slicelife.com/restaurants/in/indianapolis/46220/fat-dan-s-deli-indianapolis/menu/
+IN,Indianapolis,Indy's Historic Steer-In,Fried Green Tomato BLT,no,12.99,12.99,unknown,included,,https://www.toasttab.com/local/order/indys-historic-steer-in-restaurant-5130-e-10th-st/item-blt_b593b5e8-0439-455b-802c-aef2f23e0475
+IN,Lafayette,East End Grill,East End BLT,no,13.0,13.0,unknown,included,,https://www.toasttab.com/local/order/east-end-grill-1016-main-st
+IN,Chesterton,The Port Drive-In,BLT,yes,5.5,5.5,small_city,included,,https://theportdrivein.net/our-menu/
+IN,West Lafayette,Country Cafe,BLT Sandwich,yes,6.29,6.29,small_city,included,,https://countrycafelafayettein.com/
+IN,Plymouth,Castaways Family Diner,BLT,yes,10.5,10.5,small_city,included,,https://www.toasttab.com/castaways-indiana/
+IN,Schererville,Toast & Jam Cafe,TJs BLT,no,14.99,14.99,small_city,included,,https://www.toasttab.com/tjscafe/v3/?mode=fulfillment
+IN,New Albany,Sleepy Rooster Morning Kitchen,BLT Supreme Sandwich,no,13.99,13.99,small_city,included,,https://order.toasttab.com/online/sleepy-rooster-2204-state-street
+IN,Warsaw,Creighton's Crazy Egg Cafe & Coffee Bar,Barndance BeLT,no,11.44,11.44,small_city,included,,https://crazyegg.info/menu/
+IN,Indianapolis,Mousetrap,Deep Elem BLT,no,11.0,11.0,urban,included,,https://trapindy.com/wp-content/uploads/2025/10/Menu-2025-pdf-for-print.pdf
+IN,Georgetown,Polly's Freeze,BLT,yes,4.09,4.09,rural,included,,https://orders.cake.net/10925823
+IN,Wabash,Market Street Grill,blt,yes,14.0,14.0,small_city,included,,https://msgrill.com/lunch/
+IN,Jeffersonville,Geraldine's Kitchen,BLT Sandwich,yes,7.19,7.19,urban,included,,http://www.toasttab.com/geraldines-kitchen-402-wall-st/v3
+IN,Jeffersonville,Geraldine's Kitchen,BLT,yes,7.19,7.19,urban,excluded,Second price from a restaurant already counted,https://geraldineskitchen.com/lunch-menu
+IN,Angola,Sofia's Kitchen,BLT SANDWICH,yes,12.0,12.0,rural,included,,https://sofiasskitchen.com/optimamedia/products/P_35575/deeff99e-12f9-457c-a3ae-f1a00e64ea65.pdf
+IN,Knox,Christos Family Dining (Knox),BLT,yes,10.49,10.49,rural,included,,https://www.christosfamilydining.com/menus/knox/christos-knox-main-menu.pdf
+IN,Indianapolis,The Eagle,FRIED CHICKEN BLT,no,14.5,14.5,urban,included,,https://www.eaglerestaurant.com/menu
+IN,Fort Wayne,Friendly Fox,BLT,yes,14.0,14.0,urban,excluded,Menu price dated before 2025,https://www.friendlyfox.org/lunch
+KS,Lawrence,Latchkey Deli,BLT,yes,12.5,12.0,unknown,included,,https://www.toasttab.com/local/order/latchkey-deli-1035-massachusetts-st
+KS,Wichita,Artichoke Sandwichbar,Anne's Slap-N-BLT,yes,12.99,12.99,unknown,included,,https://www.toasttab.com/local/order/artichoke-sandwichbar-811-n-broadway-st
+KS,Wichita,Artichoke Sandwichbar,Anne's B-Slap-N-BLT,yes,12.99,12.99,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/local/order/artichoke-sandwich-bar-north-rock-rd-2959-n-rock-rd
+KS,Wichita,Cinnamon's Deli,B.L.T.,no,11.99,11.99,unknown,included,,https://www.cinnamonsdeliict.com/menu
+KS,Wichita,Heartland Grill,BLT,yes,4.5,4.5,unknown,excluded,"Cafeteria, not a restaurant",https://www.toasttab.com/local/order/heartland-grill
+KS,Wichita,Fireside Restaurant,BLT Sandwich,yes,6.49,6.49,unknown,excluded,Not the restaurant's own menu,https://places.singleplatform.com/fireside-restaurant-30/menu
+KS,Topeka,Townsite Cafe & Catering,Texas BLT Sandwich,no,7.39,7.39,unknown,excluded,Not the restaurant's own menu,https://www.allmenus.com/ks/topeka/752265-townsite-cafe-catering/menu/
+KS,Wichita,Livingston's Cafe,BLT,yes,9.99,9.99,urban,included,,https://order.toasttab.com/online/livingstons-cafe-4733-e-douglas-ave
+KS,Lawrence,Milton's Cafe,B.L.T.*,yes,9.0,9.0,urban,included,,https://www.miltonscafe.com/menu
+KS,Wichita,Red Bird Sandwich Co.,Oriole,no,9.0,9.0,urban,included,,https://order.toasttab.com/online/red-bird-6440-east-central-avenue
+KS,Lawrence,Sandwich Bowl,BLT (toasted bread),yes,12.0,12.0,urban,included,,https://sandwichbowl.com/wp-content/uploads/2026/06/Menu-april-2026.pdf
+KS,Caney,Eggbert's,Eggberts Supreme BLT,no,9.99,9.99,rural,included,,https://eggbertsrestaurant.net/menu
+KY,Lexington,Stella's Kentucky Deli,BLT,yes,9.95,9.95,unknown,included,,https://www.toasttab.com/stellas
+KY,Louisville,The Main Eatery,The Main Eatery BLT,yes,15.75,15.75,unknown,excluded,Menu price dated before 2025,https://www.themaineatery.com/
+KY,Lancaster,Piggin' Out,BLT only,yes,4.99,4.99,unknown,included,,https://order.spoton.com/BL-515E-BDF7-3061/pickup
+KY,Lancaster,Piggin' Out,BLT,no,7.79,7.79,unknown,excluded,Second price from a restaurant already counted,https://order.spoton.com/BL-515E-BDF7-3061/pickup
+KY,Elizabethtown,Mark's Feed Store (Elizabethtown),BLT Basket,no,11.99,11.99,unknown,included,,https://www.toasttab.com/local/order/marksfeedstore-etown
+KY,Louisville,Shady Lane Cafe,Classic BLT Sandwich,yes,7.5,7.5,unknown,excluded,Not the restaurant's own menu,https://places.singleplatform.com/shady-lane-cafe/menu
+KY,Lexington,Stella's Kentucky Deli,Fried Green Tomato BLT,no,10.5,10.5,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/stellas
+KY,Jeffersontown (Louisville Metro),Gaslight Diner,B.L.T.,yes,10.0,10.0,urban,included,,https://www.toasttab.com/gaslight-diner-watterson-10509-watterson-trail
+KY,Louisville,Burger Girl Diner,BLT,yes,15.0,15.0,urban,included,,https://burgergirldiner.com/menu
+KY,Versailles,Wallace Station Deli and Bakery,BLT,yes,9.99,9.99,small_city,included,,https://www.toasttab.com/wallace-station-3854-old-frankfort-pike/v3
+KY,Henderson,The Dairiette,Classic BLT,yes,4.99,4.99,small_city,included,,https://thedairiette.com/sandwiches
+KY,Bowling Green,Doug's Motor City Bar & Grill,B.L.T. Sandwich,yes,7.99,7.99,urban,included,,https://bowlinggreen.takeoutwaiter.com/r/24/restaurants/delivery/Bar-Grill/Dougs-Motor-City-Bowling-Green
+KY,Lexington,Josie's,*BLT & E,no,18.75,18.75,urban,included,,https://www.toasttab.com/josies
+LA,Baton Rouge,Louie's Cafe,BLT,yes,9.0,9.0,unknown,included,,https://www.toasttab.com/local/order/louies-cafe-3322-lake-street
+LA,Abbeville,Bourbon Street Deli Abbeville,BLT,yes,6.99,6.99,unknown,included,,https://www.toasttab.com/local/order/bourbon-street-deli-abbeville-520-w-summer-dr
+LA,New Orleans,Ruby Slipper Cafe (CBD),Southern BLT,no,13.25,13.25,unknown,included,,https://www.toasttab.com/local/order/the-ruby-slipper-cafe-magazine/item-southern-blt_08fdbd89-7589-4250-b4a1-609606ff937a
+LA,New Orleans,Satsuma Cafe (Dauphine St),special BLT,no,12.0,12.0,unknown,included,,https://satsumacafe.com/locations/dauphine-street/
+LA,New Orleans,Surrey's Cafe & Juice Bar,BLT,yes,9.25,9.25,unknown,excluded,Not the restaurant's own menu,https://www.allmenus.com/la/new-orleans/274280-surreys-cafe-juice-bar/menu/
+LA,Winnsboro,Mustang Lucy Cafe,BLT,yes,7.99,7.99,rural,included,,https://mustanglucycafe0201.s4shops.com
+LA,Baton Rouge,Frostop,BLT,yes,5.99,5.99,urban,included,,http://www.frostoprestaurant.com/menu.html
+LA,Covington,"Fat Spoon Cafe (Covington, Hwy 21)",BLT,yes,8.49,8.49,small_city,included,,https://order.toasttab.com/online/fat-spoon-cafe-covington-21-71170-la-21/
+LA,Hammond,Our Mom's Restaurant & Bar,BLT,yes,12.99,12.99,small_city,included,,https://order.toasttab.com/online/our-mom-s-restaurant-bar-hammond-205-east-thomas
+LA,Shreveport,Bayou Deli and Casserole Shop,BLT,yes,9.95,9.95,urban,included,,https://www.bayoudelicasserole.com/menus/
+LA,Abita Springs,Abita Cafe,FRIED GREEN TOMATO & AVOCADO BLT,no,15.0,15.0,rural,included,,https://abitacafe.com/menu/
+MA,Boston,South Street Diner,Web BLT Sandwich (Traditional),yes,10.95,10.95,unknown,included,,https://order.toasttab.com/online/southstreet
+MA,Hadley,Johnny's Roadside Diner,BLT Sammy,yes,13.0,13.0,unknown,included,,https://order.toasttab.com/online/johnnys-roadside-diner
+MA,Essex,Googan's Galley,Basic Bacon (BLT),yes,12.0,12.0,unknown,included,,https://order.toasttab.com/online/googans
+MA,Gilbertville (Hardwick),Rose 32 Bread,Turkey BLT,no,9.95,9.95,unknown,included,,https://order.toasttab.com/online/rose-32-bread-gilbertville-ma-412-main-street
+MA,Chilmark (Menemsha),Menemsha Galley,B.L.T,yes,9.95,9.95,unknown,excluded,Menu price dated before 2025,https://menemshagalley.com/menu
+MA,Saugus,Iron Town Diner (Saugus),Classic BLT Sandwich,yes,14.0,14.0,unknown,included,,https://order.toasttab.com/online/iron-town-diner-saugus-327-main-street
+MA,Reading,Christopher's Restaurant,BLT,yes,10.99,10.99,unknown,included,,https://www.christophersreading.com/menu.html
+MA,Cambridge,Mass Ave Diner,Mass Ave BLT,no,20.0,20.0,unknown,included,,https://massavediner.com/menu/
+MA,Somerville,Ball Square Cafe,BLT Sandwich or Wrap,yes,16.0,16.0,unknown,excluded,Menu price dated before 2025,https://www.ballsquarecafe.com/menu
+MA,Boston,Max's Deli Cafe,Breakfast BLT,no,8.95,8.95,unknown,included,,https://order.toasttab.com/online/maxs-deli-cafe-151-milk-st
+MA,Springfield,Pizza Works,B L T Swch,yes,8.3,8.3,unknown,included,,https://pizzaworks-springfield.allhungry.com/menu
+MA,Ayer,Two Brothers Restaurant and Catering,B.L.T. On Texas Toast,yes,8.99,8.99,unknown,included,,https://www.toasttab.com/local/order/two-brothers-catering-deli-21-front-street
+MA,Ashland,Marathon Deli,BLT,yes,11.99,11.99,unknown,included,,https://www.marathondeli.com/?page=coldsandwiches
+MD,Frederick,Bentztown,Bentztown BLT,no,14.0,14.0,unknown,included,,https://www.toasttab.com/local/order/bentz-town-south-bentz-street
+MD,Baltimore,Attman's Delicatessen (Harbor Point),Original BLT,yes,10.49,10.49,unknown,included,,https://order.toasttab.com/online/attmans-deli-harbor-point-1401-point-street
+MD,Baltimore,Chuck's Trading Post,THIS LITTLE PIGGY'S BLT,no,16.5,16.5,unknown,included,,https://www.chuckstradingpost.com/
+MD,Baltimore,Cafe 1908,Seafood Blt Sandwich,no,17.0,17.0,unknown,included,,https://www.cafe1908.com/
+MD,Annapolis,Double T Diner (Annapolis),B.L.T.,yes,12.49,12.49,unknown,excluded,Menu price dated before 2025,https://www.doubletdiner.com/s/doublettANNAPOLISmainfeb24PRINT07.pdf
+MD,Rising Sun,Bigfoot Steaks and Hoagies,BLT,no,15.99,15.99,rural,included,,https://www.bigfootsteaks.com/menus
+MD,Jefferson,Watson's Carry Out,"BLT - Bacon,Lettuce & Tomato",yes,3.99,3.99,rural,included,,https://watsonscarryout.weebly.com/menu.html
+MD,Ocean City,Tommy's Sub Shop,BLT,yes,7.95,7.95,rural,included,,https://www.tommyssubshop.us/menu.html
+MD,Hagerstown,Hartle's Subs,BLT Sandwich,yes,7.1,7.1,small_city,included,,https://www.hartlessubs.com/menu.html
+MD,Baltimore,Alonso's,BLT,yes,10.99,10.99,urban,included,,https://www.alonsos.com/menu
+MD,Baltimore,Pete's Grille,BLT,yes,7.95,7.95,urban,included,,https://www.petesgrill.com/menu
+MD,Baltimore,Blue Moon Cafe,BLT,yes,6.95,6.95,urban,included,,https://bluemoonbaltimore.com/
+MD,Baltimore,Kitsch Cafe,BLT,yes,12.0,12.0,urban,included,,https://order.toasttab.com/online/kitsch-301-w-29th-st
+MD,Deale,South County Cafe,BLT,yes,9.99,9.99,rural,included,,https://order.toasttab.com/online/south-county-cafe-toast-now-5960-deale-churchton-rd
+MD,St Michaels,Corah's Corner,Salmon BLT,no,19.0,19.0,rural,included,,https://corahs.com/menu
+MD,Frederick,Avery's Maryland Grille,Crab BLT Melt,no,21.0,21.0,urban,included,,https://averysmarylandgrille.com/averys-menu
+MD,Grantsville,Penn Alps Restaurant,BLT,yes,12.99,12.99,rural,included,,https://www.pennalps.com/menus/all-menus?location=penn-alps-restaurant-and-craft-shop
+MD,Ocean City,OC Diner,BLT WRAP,no,15.99,15.99,rural,included,,https://ocdiner.com/wp-content/uploads/2025/06/OCDiner_DineIn_APR25-04.pdf
+MD,North Beach,Chesapeake Market and Deli,Breakfast BLT,no,7.99,7.99,rural,included,,https://eatchesapeake.com/north-beach-menu
+ME,Portland,Miss Portland Diner,Classic BLT,yes,13.25,13.25,unknown,included,,https://missportlanddiner.com/our-menu/
+ME,Portland,Hot Suppa,Fried Green Tomato BLT,no,16.0,16.0,unknown,included,,https://hot-suppa-portland.cloveronline.com/menu/all
+ME,Brunswick,Brunswick Diner,BLT,yes,13.0,13.0,unknown,included,,https://www.brunswickdiner.com/menu
+ME,Yarmouth,Clayton's Cafe & Bakery,Full Clayton's BLT,no,10.5,10.5,unknown,included,,https://www.toasttab.com/local/order/claytons-cafe-bakery-447-u-s-1/r-5f870879-6da7-4443-8ac5-216301e935d3
+ME,Bangor,The Legacy Sandwich,#13. BLT,yes,7.0,7.0,unknown,included,,https://order.online/store/the-legacy-sandwich-1535547
+ME,Augusta,Harvest Moon Deli,BLT,yes,12.25,12.25,unknown,included,,https://order.online/store/-27488483/
+ME,Brunswick,The Big Top,BLT,yes,12.5,12.5,unknown,included,,http://www.bigtopdeli.com/wp-content/uploads/2026/07/BTD_Trifold_Menu-2026.pdf
+ME,Waterville,The Two Cent Pub,Classic BLT,yes,15.0,15.0,unknown,included,,https://twocentpub.com/winslow-two-cent-pub-food-menu
+ME,Oxford,Daddy O's Diner,BLT,yes,11.99,11.99,unknown,included,,https://daddyosmaine.com/menu
+ME,Auburn,Rolly's Diner,BLT,yes,7.5,7.5,unknown,included,,https://www.ediningexpress.com/live20/1171/2148/
+ME,Ellsworth,Governor's Restaurant & Bakery,BLT,yes,10.99,10.99,unknown,included,,https://www.governorsrestaurant.com/wp-content/uploads/2026/04/ELP-Sandwiches.png
+ME,Belfast,Traci's Diner,BLT,yes,9.95,9.95,unknown,included,,https://tracisdinerme.com/wp-content/uploads/Tracis-Menu-2.jpg
+ME,Farmington,The Downtown Press,BLT Wrap,yes,13.0,13.0,unknown,included,,https://orders.cake.net/11159239
+ME,Oakland,Sunrise Bagel,The Sunrise,no,9.5,9.5,unknown,included,,https://sunrisebagelme.com/waterville-sunrise-bagel-food-menu
+ME,South Portland,Q Street Diner,BLT,yes,10.0,10.0,unknown,included,,http://www.qstreetdiner.com/files/Q_Menu.pdf
+ME,Augusta,College Carry-Out,BLT Sandwich,yes,10.79,10.79,unknown,included,,https://collegecarryout.biz/wp-content/uploads/2026/02/college-carryout-menu-2026-1.pdf
+ME,Portland,Ramona's,B.L.T.,no,17.0,17.0,unknown,included,,https://www.ramonas.me/menu
+MI,Detroit,Avalon Cafe and Bakery (Woodward),BLTA,no,15.0,15.0,unknown,included,,https://order.toasttab.com/online/avalon-cafe-and-bakery-1049-woodward-ave
+MI,Detroit,Avalon Cafe and Bakery (Woodward),BLTA,no,17.55,17.55,unknown,delivery,Third-party delivery menu (used only in the delivery comparison),https://www.doordash.com/store/avalon-cafe-and-kitchen-detroit-215030/
+MI,Detroit,313 Deli,BLT Sandwich,yes,6.99,6.99,unknown,included,,https://www.313deli.com/order
+MI,Detroit,The Hudson Cafe (Downtown Detroit),BLT...Egg,no,17.5,17.5,unknown,included,,https://hudson-cafe.com/detroit-the-hudson-cafe-food-menu
+MI,Ann Arbor,Zingerman's Delicatessen,#66 Zingerman's B.L.T.,yes,15.5,15.5,unknown,included,,https://www.zingermansdeli.com/menus/full-menu/
+MI,Grand Rapids,Matchbox Diner & Drinks (Eastown),BLT,no,14.99,14.99,unknown,included,,https://order.toasttab.com/online/matchbox
+MI,Lansing,Athenas Diner,B.L.T,yes,9.99,9.99,urban,included,,https://athenasdiner.com/menu
+MI,Traverse City,Sparky's Diner,Traditional BLT,yes,7.99,7.99,small_city,included,,https://sparkysdinertc.com/lunch-menu/
+MI,Munising,Earl E Byrds,BLT Club,yes,14.5,14.5,rural,included,,https://order.tbdine.com/pickup/39567/menu
+MI,Scottville,North Country Cafe & Catering,BLT Sandwich,yes,9.99,9.99,rural,included,,https://northcountrycafe.com/menu
+MI,Bloomfield Hills,Embers Deli,BLT,yes,12.0,12.0,small_city,included,,https://embersdeli1.com/
+MI,Southgate,Bene's (Benedicts),Super Stacked BLT,yes,13.99,13.99,small_city,included,,https://www.mybenedicts.com/menu/
+MI,Bloomfield Hills,Zalman's on Woodward,BLT,no,19.0,19.0,rural,included,,https://zalmans.com/menus/
+MI,Grandville,Russ' Restaurants,"Bacon, Lettuce & Tomato",yes,10.49,10.49,small_city,included,,https://www.russrestaurants.com/lunch-dinner-menu
+MI,Saint Ignace,Wild Blueberry Breakfast & Bakery,BLT + C,no,9.99,9.99,rural,included,,https://wildblueberrybakery.com/lunch.html
+MI,Kalamazoo,Crow's Nest Restaurant,Breakfast BLT,no,16.0,16.0,urban,included,,https://img1.wsimg.com/blobby/go/a656c46e-0cfb-45dc-9af5-aeb8cda6f907/Right%20Inside%20page%20Fall%202026.pdf
+MI,Pontiac,The Bronx Deli,BLT,yes,13.59,13.59,urban,included,,https://www.bronxdeli.com/wp-content/uploads/2017/11/Bronx-Deli-Carryout-Menu-2026.pdf
+MI,Farmington,2 Rose's Family Restaurant,B.L.T. on Multi-grain Toast,yes,10.8,10.8,small_city,included,,https://www.2rosesrestaurant.com/_files/ugd/e33f0a_10ebdfb5882f4a3e84ad9264f05d7754.pdf
+MI,Marion,4 Corners Grill,BLT,yes,5.5,5.5,rural,included,,https://4cornersgrill.weebly.com/sandwiches--wraps.html
+MI,Reed City,Seven Slot Grille,BLT,yes,9.75,9.75,rural,included,,https://www.toasttab.com/seven-slot-grille-113-n-chestnut-st/v3
+MI,Birmingham,Greek Islands Coney,BLT,yes,13.25,13.25,small_city,included,,https://order.toasttab.com/online/greek-islands-birmingham-221-hamilton-row
+MI,Grand Blanc,Sophia's Kitchen,BLT,yes,8.49,8.49,rural,included,,http://sophiaskitchengrandblanc.com/index_htm_files/Full%20Menu.pdf
+MN,Minneapolis,Hell's Kitchen,Classic BLT,yes,16.95,16.95,unknown,included,,https://www.hellskitcheninc.com/lunch
+MN,Minneapolis,Longfellow Grill,Grand BLT-A,no,17.99,17.99,unknown,included,,https://www.toasttab.com/longfellow-grill
+MN,Minneapolis,Bryant-Lake Bowl & Theater,BLT,yes,16.0,16.0,unknown,included,,https://www.bryantlakebowl.com/menu
+MN,St. Paul,Colossal Cafe,BLT,no,17.0,17.0,unknown,included,,https://colossalcafe.com/menu/lunch/
+MN,Mankato,Number 4 Steakhouse,Number 4 BLT,no,17.0,17.0,unknown,included,,https://www.toasttab.com/number4mankato
+MN,Jordan,The Feed Mill,BLT,yes,11.0,11.0,rural,included,,https://www.thefeedmillrestaurant.net
+MN,Minneapolis,Ideal Diner,Blt,yes,7.5,7.5,urban,included,,https://idealdiner.com/our-menu/
+MN,Minneapolis,Gigi's Cafe,Gigi's BLT,no,16.0,16.0,urban,included,,https://www.gigisuptown.com/menu-2
+MN,Saint Paul,Nelson Cheese & Deli,BLT,yes,8.65,8.65,urban,included,,https://www.nelsoncheese.net/
+MN,Walker,Benson's Eating & Drinking Emporium,BLT on Toasted White,yes,16.0,16.0,rural,included,,https://cdn.hibuwebsites.com/683102d94af84527a1e0d35136c9aeec/files/uploaded/menu-bensons-eating-and-drinking-emporium.pdf
+MN,Grand Marais,Angry Trout Cafe,BLT,yes,18.0,18.0,rural,included,,https://angrytroutcafe.com/menus/
+MN,Cannon Falls,Nick's Downtown Diner,B.L.T. WITH AVOCADO,no,12.5,12.5,rural,included,,https://www.nicksdowntowndiner.com/menus/
+MN,Duluth,Dovetail Cafe and Market,BLT,yes,15.5,15.5,urban,included,,https://order.toasttab.com/online/dovetail-cafe-1917-w-superior-st
+MN,Rochester,Whistle Binkies Olde World Pub (North),Classic BLT,yes,14.0,14.0,urban,included,,https://www.whistlebinkiespub.com/wp-content/uploads/2025/09/NORTH-MENU-MAY-2024-14.pdf
+MO,Saint Louis,"BLT's Breakfast, Lunch & Tacos",BLT's B.L.T.,no,15.3,15.3,unknown,included,,https://order.toasttab.com/online/stlblts
+MO,Kansas City,The Big Biscuit KC (Barry Rd.),The Big BLT Sandwich,no,14.99,14.99,unknown,excluded,National or large regional chain,https://www.toasttab.com/local/order/the-big-biscuit-kc-barry-rd
+MO,Kansas City,The Blue Line,KC Blades BLT,no,13.75,13.75,unknown,included,,https://order.toasttab.com/online/the-blue-line
+MO,Kansas City,OurHouseKC,Fried Egg BLT,no,14.0,14.0,unknown,included,,https://order.toasttab.com/online/ourhouse_kc
+MO,Kansas City,Double Tap KC,BLT,yes,10.0,10.0,unknown,included,,https://order.toasttab.com/online/doubletap-kc-310-oak-street
+MO,Springfield,Nearly Famous Deli & Pasta House,BLT,yes,11.99,11.99,unknown,included,,https://www.nearlyfamous.net/acrobat/LunchMenu2026.pdf
+MO,Republic,The Sub Marina,BLT,yes,9.25,9.25,unknown,included,,https://www.thesubmarina.com/popmenu-order
+MO,Perryville,Park-Et Restaurant,BLT,yes,6.99,6.99,unknown,included,,https://www.parketperryvillemo.com/menus
+MO,Saint Louis,Chris' Pancake & Dining,BLT,yes,13.0,13.0,unknown,included,,https://order.toasttab.com/online/chris-pancake-dining
+MO,Saint Louis,The Original Uncle Bill's Pancake House,BLTB,no,13.5,13.5,unknown,included,,https://order.toasttab.com/online/uncle-bills-pancake-house-3427-s-kingshighway-blvd
+MS,Jackson,Keifer's Restaurant,BLT,no,10.25,10.25,unknown,included,,https://www.keifers.com/menu-1
+MS,Jackson,Keifer's Restaurant,BLT,no,10.25,10.25,unknown,excluded,Second price from a restaurant already counted,https://order.toasttab.com/online/keifers-restaurant-710-poplar-blvd
+MS,Jackson,Brent's Drugs,BLT,yes,10.0,10.0,unknown,excluded,Menu price dated before 2025,https://www.brentsdrugs.com/menu
+MS,Jackson,Broad Street Baking Company & Cafe,Classic BLT,yes,10.95,10.95,urban,included,,https://www.toasttab.com/local/order/broad-street-baking-company-cafe/r-32a030c5-67b5-464d-a377-400fa03fcce6
+MS,Jackson,The Bean,TURKEY BLT,no,12.0,12.0,urban,included,,https://www.toasttab.com/local/order/thebeanjxn
+MS,Flowood,Georgia Blue (Flowood),FGT & Praline BLT,no,14.0,14.0,small_city,included,,https://www.toasttab.com/local/order/georgia-blue-flowood-223-ridge-way
+MS,Tupelo,Sweet Peppers Deli (Tupelo),Large BLT,yes,12.48,12.48,small_city,included,,https://www.toasttab.com/local/order/spd-tupelo
+MT,Billings,Stella's Kitchen & Bakery,BLT Sandwich,yes,14.0,14.0,unknown,included,,https://www.toasttab.com/stella-s-kitchen-bakery-2525-1st-ave-n
+MT,Billings,Sophie's Kitchen,BLT,no,15.5,15.5,unknown,included,,https://www.sophieskitchenbillings.com/menu
+MT,Missoula,Doc's Sandwich Shop,BLT,yes,13.0,13.0,unknown,included,,https://docssandwiches.com/menu.html
+MT,Helena,Staggering Ox (Helena),BLT,yes,8.99,8.99,unknown,included,,https://order.toasttab.com/online/staggering-ox-helena-hq-400-euclid-ave
+MT,Billings,Staggering Ox (Billings),BLT,yes,12.95,12.95,unknown,included,,https://www.toasttab.com/staggering-ox-billings-2829-king-avenue-west-suite-d
+MT,Helena,Brewhouse Pub & Grille,BLT,yes,19.0,19.0,unknown,included,,https://atthebrewhouse.com/menu
+MT,Whitefish,Buffalo Cafe,Classic B.L.T.,yes,13.0,13.0,unknown,included,,https://www.buffalocafewhitefish.com/wp-content/uploads/2026/02/buffalo-cafe-breakfast-lunch-menu-2026.pdf
+MT,Red Lodge,Prindy's Place,BLT,yes,8.95,8.95,unknown,excluded,Menu price dated before 2025,https://img1.wsimg.com/blobby/go/e0b9dc6a-3a50-4eed-b081-1e5b55eb3540/downloads/Prindy%20Place%20Menu%20Final.pdf?ver=1643222195334
+MT,Frenchtown,Montana Brunch Company,MBC BLT,yes,9.5,9.5,unknown,included,,https://www.toasttab.com/local/order/montana-brunch-company-16862-beckwith-street
+MT,Livingston,Yellowstone Travel Plaza,BLT,yes,14.95,14.95,unknown,included,,https://order.toasttab.com/online/yellowstone-travel-plaza-1226-us-hwy-10-west
+NC,Charlotte,Brunches - Charlotte,Notorious BLT*,no,13.95,13.95,unknown,included,,https://order.toasttab.com/online/brunches-charlotte
+NC,Carolina Beach,Brunches - Carolina Beach,Notorious BLT*,no,14.45,14.45,unknown,included,,https://order.toasttab.com/online/brunches-cb/item-notorious-blt_579609ae-2eec-4c2b-b241-0df52e451aa7
+NC,Chapel Hill,Carolina Coffee Shop,BLTCA,no,13.0,13.0,unknown,included,,https://order.toasttab.com/online/carolina-coffee-shop/item-bltca_2db91f87-df8e-42e7-a5f3-361f7d4680b3
+NC,Charlotte,New York Old School Bagel & Deli,Chicken Salad BLT,no,13.25,13.25,unknown,included,,https://order.toasttab.com/online/new-york-old-school-bagel-deli-7510-pineville-matthews-rd-11a/item-lox-cream-cheese-spread_79c490c3-17b4-4894-992a-8e3c2f2c4704
+NC,Charlotte,Boardwalk Billy's Raw Bar & Ribs (Sardis Rd),Smoked Turkey BLT,no,11.99,11.99,unknown,included,,https://www.toasttab.com/local/order/bwbcpt
+NC,Calabash,Calabash Deli,BLT,yes,8.95,8.95,unknown,included,,https://calabashdeli.com/menu
+NC,Raleigh,Oakwood Deli,The Classic BLT (Hot),yes,10.0,10.0,unknown,included,,https://www.toasttab.com/local/order/oakwood-deli-331-new-bern-avenue/r-f2ffadc4-1fa4-4bb2-8429-20ee02c9067a
+NC,Greensboro,First Carolina Delicatessen,BLT,yes,7.75,7.75,unknown,included,,https://order.toasttab.com/online/firstcarolinadeli
+NC,Wilmington,Dixie Grill,Classic BLT,yes,11.43,11.43,unknown,included,,https://dixiegrillwilmington.cloveronline.com/menu/all
+NC,Raleigh,The Village Deli (Raleigh),BLT,yes,10.5,10.5,unknown,included,,https://www.villagedeli.net/raleigh-village-deli-and-grill-food-menu
+NC,Greensboro,Scrambled Southern Diner,BLT,yes,10.5,10.5,unknown,included,,https://order.toasttab.com/online/scrambled-southern-diner-to-go
+NC,Raleigh,Manhattan Cafe,B.L.T.,yes,7.99,7.99,unknown,included,,https://order.toasttab.com/online/manhattan-cafe-302-s-wilmington-st
+NC,Raleigh,Mecca Restaurant,B.L.T,yes,10.0,10.0,unknown,included,,https://www.mecca-restaurant.com/menus/lunch
+NC,Manteo,Poor Richard's Sandwich Shop,"BACON, LETTUCE & TOMATO",yes,10.95,10.95,unknown,included,,https://www.poorrichardsmanteo.com/menu
+NC,Marion,Bruce's Fabulous Foods,Traditional BLT,yes,9.5,9.5,unknown,included,,http://www.brucesfabulousfoods.com/menu.php
+NC,Wallace,Village Subs (Wallace),Blt,yes,6.5,6.5,unknown,included,,https://www.toasttab.com/village-subs-wallace-5194-nc-41/v3/?mode=fulfillment
+NC,Clayton,Hwy 42 Cafe & Hersey's Ice Cream,BLT Sandwich,yes,5.19,5.19,unknown,included,,https://order.toasttab.com/online/hwy-42-cafe
+NC,Statesville,Sub Express (Statesville),30. Classic BLT,yes,6.59,6.59,unknown,included,,https://www.subexpressnc.com/online-ordering-1
+NC,Pinehurst,Lil' Dino's Subs (Pinehurst),BLT,yes,10.75,10.75,unknown,included,,https://www.lildinos-pinehurst.com/menu.htm
+NC,Boone,Sunrise Grill & Coffee Bar,BLT,yes,12.0,12.0,unknown,included,,https://www.sunrisegrillboone.com/our-menu/
+NC,Sanford,Mrs. Lacy's Magnolia House,BLT Croissant,no,13.0,13.0,unknown,included,,https://mrslacys.com/menu
+NC,Hillsborough,"Steve's Deli, Bakery & Cafe",Breakfast BLT,no,8.0,8.0,unknown,included,,https://order.toasttab.com/online/steves-garden-market-610-north-churton-street
+ND,Lisbon,The Bronc,"BLT - Bacon, lettuce, tomato & mayo",yes,13.0,13.0,rural,included,,https://img1.wsimg.com/blobby/go/d70ec581-8f41-41d1-a86e-35d86ad79f52/Menu%20with%20changes%207.6.2026%20PDF.pdf
+ND,Medora,Little Missouri Saloon & Dining,B.L.T Sandwich,yes,17.0,17.0,rural,included,,https://orders.cake.net/11118433
+ND,Rugby,Dakota Farms Restaurant (Rugby),BLT,yes,12.75,12.75,rural,included,,https://order.toasttab.com/online/dakota-farms-rugby-308-hwy-2-se
+ND,Williston,Dakota Farms Restaurant (Williston),BLT,yes,13.29,13.29,small_city,included,,https://www.toasttab.com/dakota-farms-williston-1906-2nd-ave-w
+ND,Bismarck,"Kroll's Diner (Bismarck, State St)",BLT,yes,12.99,12.99,urban,included,,https://krollsdiner.wpengine.com/online-menu/
+ND,Fargo,Marge's Diner,BLT,yes,13.25,13.25,urban,included,,https://www.toasttab.com/local/order/marges-diner-fargo
+ND,Fargo,Grand Junction Grilled Subs (Fargo West),#4 BLT,yes,9.29,9.29,urban,included,,https://www.toasttab.com/local/order/subfixwest
+ND,Grand Forks,Eagles Crest Grill (Kings Walk Golf Course),GOURMET BLT,yes,13.0,13.0,urban,included,,https://www.eaglescrestgrill.com/menu
+NE,Omaha,Goldberg's Bar and Grill,BLT Sandwich,yes,9.75,9.75,urban,included,,https://www.goldbergs132.com/menu
+NE,Lincoln,Leighton's Pub,Breakfast B.L.T.,no,12.99,12.99,urban,included,,https://leightonspub.com/our-menu/
+NE,Lincoln,L's Kitchen,Baguette BLT,yes,18.0,18.0,urban,included,,https://lskitchenlincoln.com/food-menu
+NE,North Platte,Pop Corner,BLT,yes,11.5,11.5,small_city,included,,https://www.toasttab.com/local/order/popcorner
+NH,Manchester,The Red Arrow Diner,BLT,yes,9.25,9.25,unknown,included,,https://www.redarrowdiner.com/menu
+NH,Manchester,The Red Arrow Diner,Chicken Salad BLT,no,13.99,13.99,unknown,excluded,Second price from a restaurant already counted,https://www.redarrowdiner.com/menu
+NH,Manchester,The Red Arrow Diner,Chicken Salad BLT,no,16.08,16.08,unknown,excluded,Second price from a restaurant already counted,https://order.online/store/the-red-arrow-diner-manchester-24643506/?delivery=true&hideModal=true
+NH,Manchester,Chez Vachon,BLT,yes,7.99,7.99,unknown,included,,https://www.toasttab.com/chez-vachon-136-kelley-st
+NH,Manchester,Chez Vachon,BLT,yes,9.49,9.49,unknown,delivery,Third-party delivery menu (used only in the delivery comparison),https://www.toasttab.com/chez-vachon-136-kelley-st
+NH,Concord,Tucker's,Tuck's B-E-L-T,no,10.75,10.75,unknown,included,,https://cdn.prod.website-files.com/62fe6ee9b4e1dcd9b27ecc44/6a96c1eeae8913ee9aa225b9_Fall%20Menu%202026.pdf
+NH,Concord,Tucker's,Tuck's B-E-L-T,no,10.75,10.75,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/tuckers-concordnh
+NH,Dover,Tucker's,Tuck's B-E-L-T,no,10.75,10.75,unknown,included,,https://www.toasttab.com/tuckers-dovernh
+NH,Hooksett,Tucker's,Tuck's B-E-L-T,no,10.75,10.75,unknown,included,,https://www.toasttab.com/tuckers-hooksettnh
+NH,Manchester,Nadeau's Subs,B.L.T.,yes,9.25,9.25,unknown,included,,https://nadeaussubs.com/food-menu
+NH,West Lebanon,Taste,Breakfast B.L.T. Melt,no,11.95,11.95,unknown,included,,https://uvtaste.com/copy-of-new-menu
+NH,Jefferson,The Water Wheel Restaurant and Gift Shop,BLT,yes,8.5,8.5,unknown,included,,http://www.waterwheelnh.com/images/menus/Waterwheel_Menu_2026.jpg
+NH,Sunapee,The Bend at Sugar River,Winn Hill BLT,no,12.0,12.0,unknown,included,,https://order.toasttab.com/online/the-bend-at-sugar-river
+NH,Greenland,Greenland Famous Roast Beef,BLT SUB,yes,11.99,11.99,unknown,included,,https://greenlandfamous.com/deli-subs/
+NH,Temple,The Maple Station Market,Turkey BLT Wrap,no,11.99,11.99,unknown,included,,https://www.toasttab.com/the-maple-station-market
+NH,Dover,Breakaway Cafe,Breakaway BLT,yes,12.0,12.0,unknown,included,,https://www.breakawaydover.com/food
+NH,Dover,Stella's Cafe,The BLT,yes,14.0,14.0,unknown,included,,https://stellasdover.com/wp-content/uploads/2026/09/1-combined.pdf
+NH,Derry,Mary Ann's Diner,BLT SANDWICH,yes,12.5,12.5,unknown,included,,https://cdn.prod.website-files.com/65fc35bea967baefdccf7c1d/684994d139e91c9cfb7ca07d_DERRY%20NEW%20MENU%202025_compressed.pdf
+NH,Londonderry,Poor Boys Diner,Extreme BLT,no,12.99,12.99,unknown,included,,http://poorboysdiner.com/lunch-dinner.html
+NH,Portsmouth,Roundabout Diner and Lounge,B.L.T.,yes,14.99,14.99,unknown,included,,https://www.toasttab.com/roundabout-diner-and-lounge
+NJ,Newark,Hobby's Delicatessen & Restaurant,BLT on White Toast with mayo,yes,16.95,16.95,unknown,included,,https://www.toasttab.com/hobbys-delicatessen-restaurant
+NJ,Newark,Hobby's Delicatessen & Restaurant,Breakfast BLT,no,8.95,8.95,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/hobbys-delicatessen-restaurant
+NJ,Clifton,Tick Tock Diner,B.L.T.A.,no,10.95,10.95,unknown,excluded,Menu price dated before 2025,https://www.ticktockdiner.com/s/Tick-Tock-Diner-New-Jersey-Menu-9737770511.pdf
+NJ,Hoboken,Malibu Diner,"B.L.T. Bacon, Lettuce & Tomato",yes,5.75,5.75,unknown,excluded,Menu price dated before 2025,https://www.malibudiner.com/menu.pdf
+NJ,Clinton,Clinton Station Diner,BLT,yes,9.39,9.39,unknown,excluded,Menu price dated before 2025,https://www.clintonstationdiner.com/_files/ugd/0c6c79_d284a6a0ba4a4e09a5ef675a34179649.pdf
+NJ,Cape May,The Mad Batter Restaurant & Bar,Mad Batter Crab Cake BLT,no,25.0,25.0,unknown,included,,https://www.madbatter.com/menus.html
+NJ,Clifton,Agamie's Gourmet Delicatessen,BLT,yes,7.5,7.5,urban,included,,https://agamiesdeli.com/menu
+NJ,Hoboken,Lisa's Italian Deli & Caterer,"B.L.T., Mayo & Mozzarella",no,6.95,6.95,urban,included,,https://www.getsauce.com/order/lisas-italian-deli-and-caterer/menu
+NJ,Rutherford,Steve and Andrea's,B.L.T.,yes,8.95,8.95,small_city,included,,https://www.steveandandreas.com/lunchmenu
+NJ,Millburn,Millburn Deli,BLT,yes,11.95,11.95,small_city,included,,https://order.thanx.com/millburndeli
+NJ,Millburn,Millburn Deli,California BLT,no,14.95,14.95,small_city,excluded,Second price from a restaurant already counted,https://order.thanx.com/millburndeli
+NJ,Tenafly,Tenafly Classic Diner,Classic BLT,yes,13.45,13.45,small_city,included,,https://www.toasttab.com/tenafly-classic-diner-16-w-railroad-ave
+NJ,Rockaway,Hibernia Diner,BLT,yes,8.5,8.5,small_city,included,,https://hiberniadiner.com/wp-content/uploads/2025/09/Hiberina-2025.pdf
+NJ,Lawrenceville,Route 1 Diner & Restaurant,"BACON, LETTUCE & TOMATO",yes,13.99,13.99,small_city,included,,https://www.route1diner.com/route-1-diner-all-day-menu.pdf
+NJ,Bordentown,Town & Country Diner,B.L.T.,yes,11.99,11.99,small_city,included,,https://townandcountrydiner.com/main-menu.html
+NJ,Hoboken,JP's Bagel Express,BLT,yes,7.49,7.49,urban,included,,https://www.getsauce.com/order/jps-bagel-express/menu
+NJ,Woodbridge Township,Roosevelt's American Homestyle Deli,BLT,yes,4.49,4.49,urban,included,,https://www.rooseveltsdeli.com/our-menu
+NJ,Bellmawr,Del Buono's Bakery / Carmen's Deli,BLT Sandwich,yes,10.2,10.2,small_city,delivery,Third-party delivery menu (used only in the delivery comparison),https://www.toasttab.com/del-buonos-bakery-bellmawr
+NM,Aztec,Badlands Burgers & Brews,BLT SANDWICH,yes,8.0,8.0,rural,included,,https://order.toasttab.com/online/badlands-burgers-brews-122-n-main-ave
+NM,Taos,The Alley Cantina,Spicy Green Chile BLAT Wrap,no,16.5,16.5,rural,included,,https://www.alleycantina.com/new-mexican-food
+NM,Gallup,Westend Donut & Deli,B.L.T,yes,11.75,11.75,small_city,included,,https://westenddonut.com
+NM,Gallup,Westend Donut & Deli,B.L.T,yes,13.75,13.75,small_city,excluded,Second price from a restaurant already counted,https://westenddonut.com
+NM,Santa Fe,The Pantry Restaurant,B.L.T.,yes,13.25,13.25,urban,included,,https://www.pantrysantafe.com/menu
+NM,Albuquerque,Flying Star Cafe,Superstar BLT,no,14.5,14.5,urban,included,,https://www.flyingstarcafe.com/menu/
+NM,Santa Fe,Plaza Cafe Downtown,BLT & A,no,18.0,17.0,urban,included,,https://www.plazacafedowntown.com/menus
+NM,White Rock,Pig & Fig Cafe,Monday: BLT Sandwich (Daily Box Lunch Special),no,14.0,14.0,unknown,excluded,"Price includes a drink, sides or dessert (bundle)",https://www.pigandfigcafe.com
+NV,Las Vegas,Peppermill Restaurant and Fireside Lounge,"BACON, LETTUCE AND TOMATO WITH AVOCADO",no,22.5,22.5,unknown,included,,https://www.peppermillreno.com/menu/1142/view
+NV,Las Vegas,Peppermill Restaurant and Fireside Lounge,SIN CITY B.L.T.,no,24.95,24.95,unknown,excluded,Second price from a restaurant already counted,https://www.peppermillreno.com/menu/1142/view
+NV,Las Vegas,Mr. Mamas Breakfast & Lunch (5693 S. Jones Blvd),BLT,yes,14.99,14.99,unknown,included,,https://mrmamaslv.com/las-vegas-mr-mamas-breakfast-and-lunch-food-menu
+NV,Las Vegas,Mr. Mamas Breakfast & Lunch (5693 S. Jones Blvd),BLT Sandwich,yes,14.99,14.99,unknown,excluded,Second price from a restaurant already counted,https://order.toasttab.com/online/mr-mamas-breakfast-and-lu-5693-s-jones-blvd-ste-106
+NV,Las Vegas,The Bagel Cafe (301 N Buffalo Dr),BLT Sandwich,yes,15.5,15.5,unknown,included,,https://thebagelcafe.activemenus.com/order/restaurant/the-bagel-cafe-buffalo-drive-menu/129580
+NV,Reno,Peppermill Reno - Back Bar,BLT,yes,19.0,19.0,unknown,included,,https://www.peppermillreno.com/menu/1038/view
+NV,Reno,Peppermill Reno - Biscotti's,Biscotti's BLT,no,21.5,21.5,unknown,excluded,Same restaurant brand already counted in this city,https://www.peppermillreno.com/menu/479/view
+NV,Las Vegas,Vickie's Diner,BLT,yes,12.95,12.95,urban,included,,https://www.vickiesdiner.com/
+NV,Boulder City,Boulder Pit Stop,BLT,yes,5.95,5.95,small_city,included,,https://boulderpitstop.com/our-menu/
+NV,Fallon,Jerry's Restaurant (Fallon),"Bacon, Lettuce, and Tomato Sandwich",yes,10.49,10.49,rural,included,,https://www.jerrysrestaurants.com/menus/all-day-menu?location=jerrys-restaurant-fallon
+NV,Las Vegas,Omelet House,B-L-T.,yes,11.29,11.29,urban,included,,https://omelethouselv.com/wp-content/uploads/2025/01/OHC-Menu-Jan-2025-2.pdf
+NV,Sparks,Bully's Sports Bar & Grill,BLT,yes,12.99,12.99,urban,included,,https://bullyssportsbar.com/wp-content/uploads/2026/10/BULLYS_Oct2026_Menu_Web.pdf
+NV,Las Vegas,Original Sunrise Cafe,BLT,yes,10.99,10.99,urban,included,,https://www.foodbooking.com/ordering/restaurant/menu?company_uid=174e5b56-e06e-4494-a9cf-80f1637eae1f
+NY,New York City,Sarge's Delicatessen & Diner,BLT ON WHITE TOAST,yes,16.43,16.43,unknown,included,,https://sargesdeli.com/assets/uploads_general/Sarges_FEBUpdatedMainMenu.pdf
+NY,New York City,Veselka,BLT,yes,15.0,15.0,unknown,included,,https://order.online/store/veselka-new-york-999047/?hideModal=true&pickup=true
+NY,New York City,Skylight Diner,BLT Sandwich,yes,10.45,10.45,unknown,included,,https://www.SkylightDinerNYC.com/ShowMenu.tpl?cart=1791742087107802321
+NY,Brooklyn,Tom's Restaurant,BLT Wrap,yes,14.96,14.96,unknown,included,,https://www.tomsrestaurant.net/menu
+NY,Rochester,Jine's Restaurant,B.L.T.,yes,12.95,12.95,unknown,included,,https://www.toasttab.com/jines-restaurant/v3
+NY,Rochester,Jine's Restaurant,Loaded BLT Sandwich,no,14.49,14.49,unknown,excluded,Second price from a restaurant already counted,https://www.toasttab.com/jines-restaurant/v3
+NY,New Paltz,Underground Coffee & Ales,BLT Sandwich,no,14.0,14.0,rural,included,,https://undergroundcoffeeandalesnewpaltz.com/menu
+NY,Ardsley,Ardsley Diner,B.L.T,yes,12.99,12.99,rural,included,,https://www.ardsleydiner.com/Menu.aspx
+NY,Nyack,The Breakfast & Burger Club,BLT Sandwich,yes,15.25,15.25,rural,included,,https://thebreakfastandburgerclub.com/food-menu
+NY,Marathon,Reilly's Cafe,B.L.T.,yes,7.99,7.99,rural,included,,https://www.reillyscafe.com/menu/
+NY,Kingston,Joe Beez,BLT Sub,yes,15.0,15.0,small_city,included,,https://joebeez.com/menu
+NY,North Tonawanda,FIGMOR,Classy BLT,yes,13.99,13.99,small_city,included,,https://figmorcafe.com/north-tonawanda-north-tonawanda-figmor-food-menu
+NY,North Tonawanda,Submasters,BLT & Cheese Sub,no,8.49,8.49,small_city,included,,https://www.submasteroftonawanda.com
+NY,Penfield,Capone's Italian Eatery,Capone's BLT,yes,14.0,14.0,small_city,included,,https://caponeitalianeatery.com/menu
+NY,Vestal,Tully's,The Ultimate BLT,yes,15.49,15.49,small_city,included,,https://www.tullysgoodtimes.com/menus/
+NY,Buffalo,Cafe 59,Cafe BLT,yes,13.0,13.0,urban,included,,https://www.cafe59.com/cafe-59-food-spirits-at-62-allen-st/our-menu/
+NY,Buffalo,Tony's Bay View Drive In,BLT,yes,5.99,5.99,urban,included,,https://www.tonysbayviewdi.com/menu
+NY,Albany,Betty Boop's Diner,BLT,yes,13.95,13.95,urban,included,,https://bettyboopsdinerny.com/menu
+NY,Albany,Pearl Street Diner,"Bacon, Lettuce & Tomato (BLT)",yes,9.25,9.25,urban,included,,https://pearlstreetdiner518.com/menu
+NY,Albany,Maurice's Delicatessen,B.L.T,yes,12.0,12.0,urban,included,,http://mauricesdeli.com/albany-deli-menu/
+NY,Troy,Alexis Diner,Bacon Lettuce & Tomato,yes,9.0,9.0,urban,included,,https://alexisdiner.us/troy-alexis-diner-food-menu
+NY,Schenectady,Lorenzo's Cafe,BLT,yes,10.0,10.0,urban,included,,https://lorenzositaliancafe.com/daily-menu/
+NY,Troy,Bootlegger's on Broadway,Bootleggers B.L.T.,yes,13.95,13.95,urban,included,,https://www.bootleggerstroy.com/troy-bootlegger-s-on-broadway-food-menu
+NY,Rochester,Roam Cafe,Turkey BLT,no,18.0,18.0,urban,included,,https://www.roamcafe.com/
+NY,Rochester,The Original Steve's Diner,BLT,yes,9.5,9.5,urban,included,,https://theoriginalstevesdiner.com/food-menu
+NY,Syracuse,Pomegranate Grill & Deli,BLT,yes,6.99,6.99,urban,included,,https://pomegranategrilldeli.gotoeat.net/
+NY,Syracuse,Skeleton Bee,TBLT,no,10.0,10.0,urban,included,,https://skeletonbee.com/
+NY,Middletown,Maddy's Diner,Blt,yes,10.0,10.0,small_city,included,,https://www.clover.com/online-ordering/maddys-diner-middletown
+NY,Croton-on-Hudson,Croton Mini Deli,BLT,yes,6.0,6.0,rural,included,,https://crotonminideli.com/menus/
+OH,Columbus,The Mercury Diner,B.L.T.,yes,15.99,15.99,unknown,included,,https://order.toasttab.com/online/the-mercury-diner-621-parsons
+OH,Columbus,Fox's Bagels (North Market),BLT (4 slices of bacon),yes,8.0,8.0,unknown,included,,https://order.toasttab.com/online/foxs-bagels-bexley-59-spruce-street
+OH,Columbus,Bagels & Co.,BLT,yes,11.0,11.0,unknown,included,,https://order.toasttab.com/online/bagels-co-columbus-220-west-lane-avenue
+OH,Columbus,Ohio Brewing Company - Columbus,BLTA,no,14.0,14.0,unknown,included,,https://www.toasttab.com/local/order/ohio-brewing-co-columbus-421-e-2nd-ave/item-blta_686d511c-5fcd-4c96-a691-c62896dcf35e
+OH,Kettering,Dayton Street Eats,B.L.T,yes,13.0,13.0,unknown,included,,https://www.toasttab.com/local/order/dayton-street-eats-5993-bigger-rd/item-blt_ceec38eb-55b9-42e4-97b5-541ce56489ce
+OH,Dayton,The Front Row Bar and Grill,BLT,yes,10.0,10.0,unknown,included,,https://order.toasttab.com/online/frontrowdayton
+OH,Akron,Beau's Market and Deli,BLT-A,no,13.0,13.0,unknown,included,,https://order.toasttab.com/online/beaus-market-and-deli-1275-south-cleveland-massillon-road
+OH,Waverly,Maddy's Diner 23,BLT,yes,4.99,4.99,rural,included,,http://www.diner23.com/menu.shtml
+OH,Chesterhill,Triple Nickel Diner,BLT,yes,11.0,11.0,rural,included,,https://www.triplenickeldiner.com/uploads/b/504c52c0-6baa-11ea-a48e-c5e43d09c0d9/2d6cc240-52a1-11f0-98dd-bff09b2a1229.pdf
+OH,Garrettsville,Podboy's By Cellar Door,Dippy Egg BLT,no,14.0,14.0,rural,included,,https://order.toasttab.com/online/podboys-by-cellar-door-8126-main-st
+OH,Euclid,Dale's Deli,B.L.T,yes,8.95,8.95,small_city,included,,https://order.daleseuclid.com/
+OH,Cleveland Heights,Luna Bakery Cafe,BLT,yes,14.5,14.5,small_city,included,,https://www.lunabakerycafe.com/_files/ugd/cd14d0_1fbe3ec98a444df9a140ace8cb68d8c6.pdf
+OH,Toledo,Schmucker's Restaurant,"BACON, LETTUCE & TOMATO",yes,7.99,7.99,urban,included,,https://schmuckersrestaurant.com/wp-content/uploads/2025/12/Schmuckers_Menu_12042025.pdf
+OH,Columbus,German Village Coffee Shop,BLT,yes,8.5,8.5,urban,included,,https://www.gvcoffeeshop.com/menu-1
+OH,Akron,Mr. Zub's Deli (Highland Square),"Mr. Pink - Bacon, Lettuce & Tomato",yes,13.99,13.99,urban,included,,https://mrzubs.com/akron-highland-square-mr-zubs-deli-and-bar-food-menu
+OH,Columbus,Katzinger's Delicatessen (German Village),Frank's Reincarnation,yes,14.95,14.95,urban,included,,https://katzingers.com/locations-menus/katzingers-german-village/menus
+OH,Toledo,Star Diner,"Grilled Bacon, Lettuce, Tomato and Cheese",no,10.95,10.95,urban,included,,http://stardiner.org/sandwiches
+OK,Afton,The Summit Restaurant (Shangri-La Resort),BLT,yes,15.0,15.0,rural,included,,https://shangrilaok.com/dining/the-summit-restaurant/
+OK,Owasso,Mad Eats,Ultimate BLT,no,14.95,14.95,small_city,included,,https://www.madeatsok.com/s/2026-MADEats-Menu-June2026-Update.pdf
+OK,Bixby,Apple Barrel Cafe,BLT with Avocado Slices,no,10.99,10.99,small_city,included,,https://www.applebarrelcafe.com/menu
+OK,Lawton,Toast + Jam,BLT,yes,12.99,12.99,urban,included,,https://order.toasttab.com/online/toast-jam-2-nw-sheridan-rd
+OK,Bristow,Boomarang Diner (Bristow),Ultimate BLT Sandwich (Regular: 3 slices of bacon),yes,6.99,6.99,rural,excluded,National or large regional chain,https://www.boomarangdiner.com/s/April26MenuDesign-compressed-glm7.pdf
+OK,Bristow,Boomarang Diner (Bristow),Ultimate BLT Sandwich,no,9.99,9.99,rural,excluded,National or large regional chain,https://www.boomarangdiner.com/s/April26MenuDesign-compressed-glm7.pdf
+OK,Norman,Midway Deli (Eufaula St),BLT,yes,6.5,6.5,urban,included,,https://www.toasttab.com/local/order/midway-deli-3-601-west-eufaula-street
+OK,Tulsa,Tally's Good Food Cafe,Double BLT*,no,9.95,9.95,urban,included,,https://tallyscafe.com/menu/entrees-appetizers/
+OK,Tulsa,Wildflower Cafe,BLT,yes,14.0,14.0,urban,included,,https://www.wildflowercafetulsa.com/lunch
+OR,Cascade Locks,Bridgeside Family Dining,BLT,yes,12.0,12.0,rural,included,,https://bridgesidedining.com/cascade-locks-downtown-bridgeside-food-menu
+OR,Creswell,Blue Valley Bistro,BLAT WRAP,no,15.0,15.0,rural,included,,http://bluevalleybistro.com/bistro/
+OR,Pendleton,Hal's Hamburgers,BLT,yes,7.85,7.85,small_city,included,,https://order.toasttab.com/online/hals-hamburgers
+OR,Tualatin,Sunny's Diner,B.L.T. Sandwich,yes,14.75,14.75,small_city,included,,https://sunnysdiner.com/menu
+OR,Milwaukie,Mike's Drive-In,BLT,yes,7.0,7.0,small_city,included,,https://www.toasttab.com/mikes-drive-in-milawaukie/v3
+OR,Medford,Debby's Diner,The Bob Hope,no,14.0,14.0,urban,included,,https://debbysdinermedford.com/menu
+OR,Albany,No Baloney Subs & Salads,BLT,yes,13.75,13.75,urban,included,,http://www.nobaloneysandwich.com/our-menu/
+OR,Portland,Toast,BLT,no,17.5,17.5,urban,included,,https://www.toastpdx.com/portland-woodstock-toast-food-menu
+OR,Seaside,Norma's Seafood & Steak,BLT,yes,14.5,14.5,rural,included,,https://order.toasttab.com/online/normasseaside
+OR,Knappa (Astoria mailing),The Logger Restaurant,Traditional BLT,yes,16.0,16.0,rural,included,,https://toasttab.com/local/order/the-logger-restaurant-llc-42894-old-highway-30-astoria-or-97103/r-46d1c7f5-2378-4092-a080-7de5c9c4aba8
+OR,Hood River,Golden Goods,T-BLAT,no,16.0,16.0,rural,excluded,No bacon in the sandwich,https://www.toasttab.com/local/order/golden-goods-111-oak-st
+PA,Bally,Bally Family Diner,BLT,yes,5.99,5.99,rural,included,,https://www.ballyfamilydiner.com/menu
+PA,Pittsburgh,Pamela's Diner (Shadyside),BLT,yes,11.29,11.29,urban,included,,https://pamelasdiner.com/pdfs/081726_Pamelas-ShadySide-Menu_FORWEB.pdf
+PA,Easton,Ciao! Sandwich Shoppe,#15 Vicky's BLT,no,14.95,14.95,small_city,included,,https://www.eatatciao.com/menu
+PA,Pittsburgh,Square Cafe (East Liberty),Avocado BLT Wrap,no,16.5,16.5,urban,included,,https://square-cafe.com/pittsburgh-east-liberty-square-cafe-east-liberty-food-menu
+PA,Lewisberry,Allen's Eatery,BLT,yes,6.0,6.0,rural,included,,https://cdn.hibuwebsites.com/de089ad549eb4a27af423b4f7c3b5601/files/uploaded/May_2025_AllensEateryMenu.pdf
+PA,Collegeville,Collegeville Diner,"B.L.T. (Bacon, Lettuce & Tomato) with Mayo",yes,10.49,10.49,rural,included,,https://www.thecollegevillediner.com/menu
+PA,Norristown,Pauline's Deli,B.L.T,yes,5.5,5.5,small_city,excluded,Menu price dated before 2025,http://paulinebreakfast.com/lunch.html
+PA,Philadelphia,Old Nelson II,#17 - BLT,yes,9.0,9.0,urban,included,,https://www.toasttab.com/local/order/oldnelsonii
+PA,Pittsburgh,Phat Bagel (4508 Liberty Ave),BLT,no,6.0,6.0,urban,included,,https://www.toasttab.com/local/order/phatbagel/item-blt_0309eb21-7924-4bd3-8023-365030ff053d
+PA,Scranton,Downtown Deli and Eatery,BLT,yes,12.99,12.99,urban,included,,https://www.toasttab.com/local/order/downtown-deli-and-eatery/r-2397996e-d32d-4ea4-9d83-d9c314d9509d
+RI,Jamestown,Slice of Heaven,BLT,yes,9.25,9.25,rural,included,,https://www.toasttab.com/slice-of-heaven/v3
+RI,Providence,The Classic,BLT,yes,9.99,9.99,urban,included,,https://theclassicri.com/s/The-Classic-Menu.pdf
+RI,Pawtucket,Maven's Delicatessen,Maven's Breakfast BBLT,no,14.95,14.95,urban,included,,https://mavensdeli.com/pawtucket-maven-s-delicatessen-food-menu
+RI,East Greenwich,Jigger's Diner,BLT,yes,11.0,11.0,small_city,included,,https://order.toasttab.com/online/jiggers-diner
+RI,Bristol,Bristol Sunset Cafe,BLT,yes,13.0,13.0,small_city,included,,https://www.toasttab.com/bristolsunsetcafe
+RI,Middletown,Blue Plate Diner,BLT,yes,14.75,14.75,small_city,included,,https://www.blueplatedinerri.com/lunch-dinner
+SC,Greenville,Duke Sandwich Co,PREMIUM BLT,yes,6.0,6.0,unknown,included,,https://www.dukesandwich.com/menu
+SC,Greenville,Liberty Cafe,B.L.T.,yes,11.45,11.45,unknown,included,,https://libertycafegreenville.us/data/J035921-Liberty%20Cafe-FD-Menu.pdf
+SC,Charleston,Toast! All Day,LOW COUNTRY FRIED GREEN BLT,no,15.0,15.0,unknown,included,,https://toastallday.com/menus/downtown
+SC,Charleston,Millers All Day,TURKEY BLT,no,17.0,17.0,unknown,included,,https://millersallday.com/pages/menu
+SC,Simpsonville,The Lunchbox SC,BLT&E,no,12.0,12.0,unknown,included,,https://www.thelunchboxsc.com/_files/ugd/0ea6fa_0a897b079bf04abdb45fd3544411691b.pdf
+SC,Newberry,The Grille On Main,BLT,yes,7.99,7.99,unknown,included,,https://www.thegrilleonmain.com/lunch-menu.html
+SC,Spartanburg,The Skillet,BLT,yes,7.65,7.65,unknown,included,,http://theskilletspartanburg.com/our-menu-lunch.html
+SC,Anderson,Figs Cafe & Farmacy,BLT,yes,8.0,8.0,unknown,included,,https://www.figscafeandfarmacy.com/menu
+SC,Chapin,J Peters Grill & Bar,SALMON BLT *,no,15.99,15.99,unknown,included,,https://jpetersgrill.com/menu/
+SC,Seneca,PRESST Food & Wine,CBLT,no,12.98,12.98,unknown,included,,https://www.presstfoodandwine.com/menu-pdf
+SC,Woodruff,Claudio's Bistro,FARMER BLT,no,10.0,10.0,unknown,included,,https://claudiosbistro.com/wp-content/uploads/sites/138/2025/04/ClaudiosBistroMenuApril2025-compressed_1.pdf
+SC,Cross Hill,Skippers On Lake Greenwood,BLT,yes,9.0,9.0,unknown,excluded,Menu price dated before 2025,https://www.skippersonlakegreenwood.com/menu2.jpg
+SD,Aberdeen,Pounders,BLT,yes,10.99,10.99,small_city,included,,https://cdn.prod.website-files.com/624b5fbdf115685257d83db2/6a10722d703eedebe0e45685_pounders-menu-2026-web.pdf
+SD,Lead,Latchstring Restaurant,BLT,yes,18.0,18.0,rural,included,,https://spfcanyon.com/images/uploads/Latchstring-Lunch-Menu.pdf
+SD,Rapid City,Colonial House Restaurant and Bar,Classic BLT,yes,15.99,15.99,urban,included,,https://img1.wsimg.com/blobby/go/6257c8e0-1d4c-4542-99a4-958281eafb3f/Lunch%20Menu%208.26.25.pdf
+SD,Rapid City,The Bashful Bison Deli and Market,The Box Elder,no,13.99,13.99,urban,included,,https://bashfulbison.com/our-menu/
+SD,Rapid City,The Bashful Bison Deli and Market,The Box Elder,no,14.99,14.99,urban,excluded,Second price from a restaurant already counted,https://order.spoton.com/6504a56987ffd40040305b3f
+TN,Gatlinburg,Mountain Edge Grille,BLT,yes,16.49,16.49,rural,included,,https://mountainedgegrill.com/index.php/menu/
+TN,Cookeville,Crawdaddy's,Fried Green BLT,no,11.99,11.99,small_city,included,,https://crawdaddysgrill.com/cookeville-downtown-crawdaddy-s-food-menu
+TN,Alcoa,Hot Rods 50's Diner,The Classic BLT Sandwich,yes,12.99,12.99,small_city,included,,https://cdn.prod.website-files.com/64514e31f8dad43ba9b94a91/6a150cefc527d247564b8c15_HotRods%20Menu_2026_FV-web.pdf
+TN,Knoxville,Nixon's Deli,BLT on Toast,yes,5.5,5.5,urban,included,,https://www.nixonsdeli.com/menu
+TN,Knoxville,Pete's Coffee Shop,Classic BLT Sandwich,yes,10.99,10.99,urban,included,,https://petescoffeeshop.com/menu
+TN,Johnson City,Mid City Grill,BLT,yes,10.99,10.99,urban,included,,https://toasttab.com/midcitygrilljc
+TN,Murfreesboro,Sandwich Factory,THE ULTIMATE BLT,yes,9.99,9.99,urban,included,,https://www.sandwichfactorytn.com/menu
+TN,Dayton,Carrabelle's,BLT Sandwich,yes,12.0,12.0,rural,included,,https://carrabelles.net/images/_pdf/CCC-126_MainMenu.pdf
+TN,Clinton,Apple Blossom Cafe & Catering,B.L.T.,yes,8.99,8.99,small_city,included,,https://www.appleblossomcafetn.com/wp-content/uploads/2026/10/Apple_Blossom_Restaurant_Menu.pdf
+TN,Oak Ridge,Billy's Time Out Deli,BLT,yes,8.79,8.79,small_city,included,,https://www.billystimeoutdeli.com/assets/files/menu.pdf
+TN,Millington,Shelby Forest General Store,"BLT (Bacon, Lettuce, & Tomato)",yes,5.99,5.99,small_city,included,,http://shelbyforestgeneralstore.com/wp-content/uploads/2026/01/SFGS_Menu_RevisedJan2026.jpg
+TN,Chattanooga,Kenny's,BLT,yes,13.0,13.0,urban,included,,https://www.toasttab.com/kennys-1251-market-street
+TN,Memphis,The Green Beetle,FRIED GREEN TOMATO BLT,no,17.0,17.0,urban,included,,https://www.thegreenbeetle.com/menu-1
+TX,Stockdale,Salty Slab Meat Market,BLT Sandwich,yes,9.69,9.69,rural,included,,https://order.toasttab.com/online/the-salty-slab-meat-market-303-texas-hwy-123
+TX,Coleman,Cattle Drive Cafe,BLT,yes,12.99,12.99,rural,excluded,Menu price dated before 2025,https://www.cattledrivecafe.com/menu/
+TX,Montgomery,Cork This Tap That,BLT,yes,10.5,10.5,rural,included,,https://www.toasttab.com/corkthistapthattx
+TX,Bee Cave,Austin Tea Xchange Cafe,BLT,no,13.99,13.99,rural,included,,https://www.toasttab.com/austin-tea-exchange/v3
+TX,Bee Cave,Austin Tea Xchange Cafe,BLT,no,18.19,18.19,rural,delivery,Third-party delivery menu (used only in the delivery comparison),https://www.toasttab.com/austin-tea-exchange/v3
+TX,Salado,Chupacabra Kitchen,BLT Sandwich,yes,13.99,13.99,rural,included,,https://chupacabratx.com/menu/
+TX,Mason,Willow Creek Cafe & Club,B-L-T Sandwich,yes,9.0,9.0,rural,included,,https://www.toasttab.com/willow-creek-cafe-club-106-fort-mckavitt-st
+TX,Katy,Home Run Dugout,Smoked Turkey BLT,no,17.0,17.0,small_city,included,,https://gc.homerundugout.com/assets/HRD-daytime-menu.pdf
+TX,Fort Worth,Eggsquisite Cafe,BLT+E,no,13.59,13.59,urban,included,,https://www.toasttab.com/local/order/eggsquisite-cafe-fort-worth/r-27033274-fb28-404b-85a0-c9cbe1615715
+TX,Liberty Hill,Dahlia Cafe,BLT,yes,11.5,11.5,small_city,included,,https://www.toasttab.com/dahlia-cafe-new/v3
+TX,Kyle,Texas Pie Company,BLT,yes,7.75,7.75,urban,included,,https://texaspiecompany.com/pages/menu
+TX,Waco,Griff's Grill,BLT Sandwich,yes,5.99,5.99,urban,included,,https://griffsgrillwaco.com/menu
+TX,Temple,Bird Creek Brewing,Fried Green Tomato-BLT,no,14.99,14.99,urban,included,,https://birdcreekbrewing.com/menu
+UT,Moab,Milt's Stop & Eat,BLT,yes,8.0,8.0,rural,included,,https://www.miltsstopandeat.com/
+UT,Oakley,Oakley Diner,BLT Sandwich,yes,16.0,16.0,rural,included,,https://www.toasttab.com/oakley-diner/v3
+UT,Roosevelt,Rocky's Place,BLT,yes,6.9,6.9,rural,included,,https://www.rockysplaceinc.com/food
+UT,North Logan,Gracy's Diner,BLT,yes,9.99,9.99,small_city,included,,https://cchef942.wixsite.com/my-site
+UT,American Fork,Tangie's Cafe,BLT,yes,7.75,7.75,small_city,included,,https://tangiescafe.restaurant/
+UT,Bountiful,Penny Ann's Cafe,BLT,yes,12.29,12.29,small_city,included,,https://order.toasttab.com/online/penny-anns-cafe-bountiful-234-south-500-west
+UT,Salt Lake City,Finn's Cafe,Bacon Lettuce & Tomato,yes,12.49,12.49,urban,included,,https://www.finnscafe.net/menu-1?menu=lunch
+UT,Logan,Beehive Grill,Bleu Cheese BLT,no,14.99,14.99,urban,included,,https://thebeehivegrill.com/menu/
+UT,Kamas,Mirror Lake Diner,Regular B.L.T.,yes,10.75,10.75,rural,excluded,Menu price dated before 2025,http://www.mirrorlakediner.com/2024_menu_all_day_.pdf
+UT,Provo,Slate Restaurant (Provo Marriott),Roasted Turkey BLT,no,18.0,18.0,urban,included,,https://order.online/store/-946971/
+UT,Ogden,Ogden Beer Co.,BLTXXL,no,15.0,15.0,urban,included,,https://www.toasttab.com/local/order/ogdenbeercompany
+VA,Hopewell,Waves Sandwich Company,BLT,yes,11.0,11.0,small_city,included,,https://order.toasttab.com/online/waves-sandwich-company
+VA,Fredericksburg,Paradise Diner,BLT Sandwich,yes,9.95,9.95,small_city,included,,https://www.paradisedinermenu.com/
+VA,Hillsville,Toaster's Deli,Uptown BLT,no,7.99,7.99,rural,included,,https://irp.cdn-website.com/9ffc36c3/files/uploaded/Menu_05052026.pdf
+VA,Urbanna,Something Different,B.L.T*,yes,11.0,11.0,rural,included,,https://somediff.com/img/PDFs/9687-SD-menu_052925.pdf
+VA,South Boston,O'Kelly's Deli & Pastries,BLT,yes,8.49,8.49,rural,included,,https://www.okellys.com/menu
+VA,Altavista,Main Street Cafe & Coffee,BLT,yes,9.0,9.0,rural,included,,http://mscc.co/menu
+VA,Troutville,Angelle's Diner,Fatty BLT,no,9.99,9.99,rural,included,,https://www.angellesdiner.com/items/fatty-blt?menu=lunch-and-dinner
+VA,Blacksburg,Joe's Diner,"BLT-Sandwich: Bacon, Lettuce, Tomato with Mayo",yes,6.5,6.5,small_city,included,,https://www.toasttab.com/joe-s-diner-221-n-main-st
+VA,Richmond,Millie's Diner,BLT,yes,10.0,10.0,urban,included,,https://www.toasttab.com/millies-diner-2603-east-main-st
+VA,Richmond,Galaxy Diner,SUPER NOVA BLT SANDWICH,no,10.99,10.99,urban,included,,https://galaxydinerrva.com/menu/
+VA,Norfolk,Little Dog Diner,The Ultimate BLT,no,13.0,13.0,urban,included,,https://littledogdiner.com/norfolk-ghent-norfolk-little-dog-diner-food-menu
+VA,Alexandria,Bob & Edith's Diner,BLT*,yes,5.99,5.99,urban,included,,https://www.bobandedithsdiner.com/items/blt?location=old-town-alexandria-2&menu=lunch-and-dinner
+VA,Manassas,Juke Box Diner,BLT,yes,10.0,10.0,small_city,excluded,Menu price dated before 2025,https://jukeboxdiner.com/juke-box-diner-classic-menu/
+VA,Fredericksburg,Tito's Diner,B.L.T. THE CLASSIC,yes,9.99,9.99,small_city,excluded,Menu price dated before 2025,http://www.titodiner.com/titos/menu/menu-4-23.pdf
+VT,Middlebury,Noonie's Deli,Noonie's BLT,no,13.75,13.75,rural,excluded,Replaced by the restaurant's plain BLT,https://www.nooniesdeli.com/all-day-menu
+VT,Middlebury,Noonie's Deli,Noonie's BLT,yes,7.99,6.99,rural,included,,https://order.toasttab.com/online/noonies-deli-137-maple-st
+VT,Vergennes,3 Squares Cafe,Notorious BLT,no,14.0,14.0,rural,included,,https://www.toasttab.com/3-squares-cafe/v3/
+VT,Montpelier,Wayside Restaurant & Bakery,Our Classic BLT,yes,5.95,5.95,rural,excluded,Menu price dated before 2025,https://waysiderestaurant.com/menus/lunch-dinner-menu/
+VT,Woodstock,White Cottage Snack Bar,*BLT,yes,8.95,8.95,rural,included,,https://whitecottagesnackbar.com/menu/
+VT,Thetford,Red Clover Cafe and Creamery,B L T,yes,11.5,11.5,rural,included,,https://www.redclovercafeandcreamery.com/menus
+VT,Shelburne,The Dutch Mill,B.L.T.,yes,12.95,12.95,rural,included,,https://dutchmillvt.com/pdfs/newmenu25last.pdf
+VT,Burlington,Yellow Mustard Deli,Toasted BLT Sandwich,yes,13.5,13.5,small_city,included,,https://ymdeli.com/menu
+VT,Burlington,Kountry Kart Deli,"B.L.T. (Bacon, Lettuce & Tomato)",yes,10.95,10.95,small_city,excluded,Menu price dated before 2025,https://kountrykartdeli.com/wp-content/uploads/2024/02/KKDwMenu_2024.pdf
+VT,Derby,Derby Cow Palace,Ultimate BLT,no,8.95,8.95,rural,excluded,Menu price dated before 2025,https://derbycowpalace.net/wp-content/uploads/2022/05/Menu-3-24-22.pdf
+VT,Essex,The Pinwheel,CLASSIC BLT,yes,14.0,14.0,small_city,included,,https://www.thepinwheelvt.com/breakfast-lunch
+VT,Essex Junction,Martone's Market and Cafe,BLT (Whole BLT),yes,16.5,16.5,small_city,included,,https://order.toasttab.com/online/martone-s-market-and-cafe/item-blt_7d645afe-5b78-4aa0-8bf4-fccd178df7df
+VT,Colchester,Burger Bar,BLT Wrap,no,10.99,10.99,small_city,included,,https://www.toasttab.com/the-burger-bar-831-college-parkway
+VT,Jericho,Jericho Cafe & Tavern,Blackened Salmon BLT,no,18.0,22.0,rural,included,,https://www.jerichocafeandtavern.com/menu
+WA,Leavenworth,59er Diner,BLT,yes,15.99,15.99,rural,included,,https://www.59erdiner.com/menu
+WA,Chelan,Apple Cup Cafe,BLT,yes,14.95,14.95,rural,included,,https://order.toasttab.com/online/applecupcafe
+WA,Leavenworth,Old Mill Cafe,BLT,yes,14.75,14.75,rural,included,,https://www.toasttab.com/old-mill-cafe/v3
+WA,Duvall,Corie's Cafe,BLTA,no,19.0,19.0,rural,included,,https://coriescafe.com/menu
+WA,Port Townsend,Spruce Goose Cafe,Fly Boys BLT,yes,13.99,13.99,small_city,included,,https://sprucegoosecafe.com/menu/
+WA,Walla Walla,Bacon & Eggs,B.L.T.,yes,15.0,15.0,small_city,included,,https://www.baconandeggswallawalla.com/menu-all
+WA,Port Orchard,Uncle Dave's Cafe,Classic B.L.T. Sandwich,yes,14.25,14.25,small_city,included,,https://order.tbdine.com/pickup/31282/menu
+WA,Arlington,Stilly Diner,BLT,yes,16.5,16.5,small_city,excluded,Excluded by the sample rules,https://www.stillydiner.com/menus/
+WA,Arlington,Stilly Diner,BLT *,yes,13.99,13.99,small_city,included,,https://order.toasttab.com/online/the-stilly-diner-223-n-olympic-ave-oaocr
+WA,Poulsbo,The Green Light Diner,Classic BLT (6 bacon),yes,15.99,15.99,small_city,included,,https://online.skytab.com/a4d9ab3ed40f0842b2488d3374f7ab79
+WA,Olympia,Meconi's Italian Subs (Olympia),BLT - Whole,yes,15.0,15.0,urban,included,,https://www.toasttab.com/meconis-subs-olympia-1018-capitol-way-s-suite-101
+WI,Evansville,Rock N Rolls,#7 BLT,yes,9.89,9.89,rural,included,,https://www.rocknrollz.com/menu
+WI,New Glarus,Fat Cat Coffee Works,BLT SANDWICH,yes,13.0,13.0,rural,included,,https://fatcatcoffeeworks.com/menu
+WI,Hayward,Riverstreet Family Restaurant,BLT,yes,9.99,9.99,rural,included,,https://riverstreetrestauranthayward.com/menu
+WI,Bristol,Red School Cafe,BLT,yes,9.5,9.5,rural,included,,https://www.toasttab.com/red-school-cafe-12320-bristol-road/v3
+WI,Sun Prairie,Gus's Diner Sun Prairie,BLT Sandwich,yes,9.69,9.69,small_city,included,,https://order.toasttab.com/online/guss-diner-sun-prairie-630-n-westmount-drive
+WI,Sun Prairie,Gus's Diner Sun Prairie,BLT Sandwich,yes,11.63,11.63,small_city,delivery,Third-party delivery menu (used only in the delivery comparison),https://order.toasttab.com/online/guss-diner-sun-prairie-630-n-westmount-drive
+WI,Oconomowoc,Grill 164,BLT,yes,8.45,8.45,small_city,included,,https://www.grill164.com/oconomowoc-downtown-oconomowoc-grill-164-food-menu
+WI,Racine,The Dish Restaurant,Applewood BLT,yes,9.99,9.99,urban,included,,https://www.toasttab.com/thedish/v3
+WI,Milwaukee,Cafe Benelux,crab cake blt,no,19.95,19.95,urban,included,,https://cafebenelux.com/menu
+WI,Green Bay,The Creamery Downtown,Fried Green Tomato BLT,no,16.5,16.5,urban,included,,https://thecreamerycafe.com/menu
+WI,Onalaska,Lindy's Subs,Texas BLT,no,12.59,12.59,small_city,included,,https://www.lindyssubsandsalads.com/menu
+WV,Shepherdstown,Blue Moon Cafe,BLT,yes,14.75,14.75,rural,included,,https://bluemooncafeshepherdstown.com/menu
+WV,Hurricane,Bubbarino's Bites & Bubbles,BLT,yes,9.99,9.99,rural,included,,https://www.toasttab.com/bubbarino-s-bites-bubbles-hurricane-3501-teays-valley-rd/v3
+WV,Berkeley Springs,Charlotte's Cafe,BLT,yes,14.0,14.0,rural,included,,https://charlottescafewv.com/lunch/
+WV,Davis,Big Belly Deli,Breakfast BLT,no,8.99,8.99,rural,included,,https://bigbellydeliwv.com/wp-content/uploads/Deli_Menu_May2025.pdf
+WV,Ellenboro,Dodd's Log Cabin Grill,BLT,yes,6.0,6.0,rural,included,,https://doddslogcabin.com/sandwiches
+WV,Dunbar,The Pitch Sports Bar & Grill,PITCH BLT,no,13.0,13.0,rural,included,,https://www.thepitchwv.com/menu
+WV,Martinsburg,Olde Country Diner,BLT,yes,6.99,6.99,small_city,included,,https://www.oldecountrydiner.com/lunch-dinner-menu
+WV,Morgantown,Sabraton Station,B.E.L.T.,no,9.99,9.99,small_city,included,,https://www.sabratonstation.com/menu
+WV,Morgantown,Jersey's Subs & Pizza,Hindenburg-BLT,no,16.51,16.51,small_city,included,,https://order.toasttab.com/online/jersey-subs-inc-1756-mileground-rd-e
+WV,Charleston,Swiftwater Cafe,CLASSIC BLT,yes,11.25,11.25,small_city,included,,https://swiftwatercafe.com/wp-content/uploads/2026/06/Swiftwater-Cafe-Menu-June-2026.pdf
+WV,Fairmont,The Joe (Stone Tower Brews),Chipotle BLT,no,12.0,12.0,small_city,included,,https://stonetower.order.tryperdiem.com/locations/fairmont/food
+WY,La Grange,B & V Coffee Cafe,BLT,yes,11.0,11.0,rural,included,,https://bandvcoffeecafe.godaddysites.com/menu
+WY,Cheyenne,Espi's Restaurant,BLT,yes,7.49,7.49,urban,included,,https://espisrestaurant.com/menu/
+WY,Cheyenne,"The Albany Restaurant, Bar and Liquor Mart",BLT,yes,11.99,11.99,urban,included,,https://www.albanycheyenne.com/menus/lunch-menu
+WY,Sheridan,Silver Spur Cafe,BLT,yes,11.95,11.95,small_city,included,,https://irp.cdn-website.com/88c967e4/files/uploaded/SAW.JUL.26.SILVERSPUR.MENU-FINAL.pdf
+WY,Casper,Johnny J's Diner,BLT,yes,9.49,9.49,urban,included,,https://order.online/store/-28473754/
+WY,Lusk,Fobaire's Diner,BLT,yes,9.0,9.0,rural,included,,https://www.toasttab.com/local/order/fobaires-diner-new-702-south-main
+WY,Riverton,Speedway Cafe,BLT,yes,10.25,10.25,small_city,included,,https://www.toasttab.com/local/order/speedway-cafe-rivertonwy
+WY,Powell,The Red Zone,BLT,yes,14.0,14.0,rural,included,,https://www.toasttab.com/local/order/the-red-zone-sports-bar-and-grill
+WY,Meeteetse,Elkhorn Bar and Grill,BLT,yes,14.0,14.0,rural,included,,https://www.elkhornbarandgrill.com/s/Pitchfork-Menu-8.pdf
+WY,Casper,The RailYard - Casper,BLTA,no,11.95,11.95,urban,included,,https://www.toasttab.com/local/order/rail-yard-casper
+WY,Laramie,The RailYard - Laramie,BLTA,no,11.95,11.95,small_city,included,,https://www.toasttab.com/local/order/railyard-laramie-301-grand-avenue
+WY,Riverton,Brown Sugar Coffee Roastery,BLT Bagel,no,7.99,7.99,small_city,included,,https://www.toasttab.com/local/order/brown-sugar-coffee-roastery
+MA,Sterling,Emma's Cafe,California B.L.T,no,9.27,9.27,rural,included,,https://www.clover.com/online-ordering/emmas-cafe-sterling-2
+MA,Sterling,Emma's Cafe,Bagel B.L.T.,no,7.21,7.21,unknown,excluded,Second price from a restaurant already counted,https://www.clover.com/online-ordering/emmas-cafe-sterling-2
+MA,Spencer,Black & White Grille,B.L.T,yes,10.99,10.99,unknown,included,,https://order.spoton.com/crs-black-and-whiteformer-table-twelve-15857/spencer-ma/65175f9192803a003eb20ab2
+MT,Bozeman,Biankini's,BLT Online,yes,14.5,14.5,urban,included,,https://www.clover.com/online-ordering/biankinis-2023-bozeman
+NE,Omaha (Elkhorn),Good Evans Breakfast & Lunch,BLT,no,13.0,13.0,urban,included,,https://orders.goodevans.com/order/good-evans-elkhorn-ne?diningOption=takeout&locationSelected=true
+ND,Minot,The Starving Rooster,B.L.T.,no,12.49,12.49,unknown,included,,https://thestarvingrooster.com/menu
+ND,Fargo,Hi-Ho Burgers and Brews,BLT Sandwich,yes,11.0,11.0,unknown,included,,https://hihoburgersandbrews.com/
+RI,East Greenwich,Dante's Kitchen,Fried Green Tomato BLT,no,13.0,13.0,small_city,included,,https://danteskitchenri.com/breakfast-menu
+RI,Tiverton,Four Corners Grille,The Applewood Smoked BLT,yes,15.0,15.0,small_city,included,,https://4cornersgrille.com/menu/four-corners-grille-3841-main-rd
+OR,Cottage Grove,Jack Sprats,BLT,yes,18.0,18.0,small_city,included,,https://jackspratsbrats.com/menu
+VT,Burlington,Henry's Diner,B.L.T. Sandwich,yes,11.85,11.85,small_city,included,,https://henrysdinervt.com/menu/henrys-diner-155-bank-street
+VT,Montpelier,Buddy's Famous,B.L.T.C,no,7.5,7.5,rural,included,,https://buddysfamousvt.com/menu/buddy-s-famous-15-barre-st
+UT,South Salt Lake,Vertical Deli,BLT,yes,8.5,8.5,small_city,included,,https://verticaldeli.com/menu/verticaldeli
+OK,Prague,Mamaw's Cafe & Catering,BLT,yes,8.99,8.99,unknown,included,,https://mamawscafe.toast.site/order
+OK,Weatherford,Jerry's Restaurant,BLT Sandwich,yes,9.49,9.49,unknown,included,,https://order.toasttab.com/online/jerrys-restaurant-1000-e-main
+OK,Weatherford,Jerry's Restaurant,BLT Sandwich,yes,9.49,9.49,unknown,delivery,Third-party delivery menu (used only in the delivery comparison),https://order.toasttab.com/online/jerrys-restaurant-1000-e-main
+OK,Owasso,Giant Subs and Deli,"BLT | Regular 6""",yes,10.0,10.0,unknown,included,,https://order.chownow.com/order/20505/locations/29614
+OK,Owasso,Giant Subs and Deli,"BLT | Large 12""",yes,13.5,13.5,unknown,excluded,Second price from a restaurant already counted,https://order.chownow.com/order/20505/locations/29614
+OK,Oklahoma City,30th Street Market,BLT,yes,12.0,12.0,urban,included,,https://30thstreet.market/menu/30th-street-market-retail-407-northwest-30th-street
+VA,Harrisonburg,The Galley Diner,BLT,yes,8.25,8.25,unknown,included,,https://thegalleyharrisonburg.com/menu
+VA,Harrisonburg,The Galley Diner,"8"" BLT Sub",yes,10.95,10.95,unknown,excluded,Second price from a restaurant already counted,https://thegalleyharrisonburg.com/menu
+VA,Norfolk,Bel Aire Pancake House,BLT,yes,14.0,14.0,urban,included,,https://belairepancakehouse.com/menu/bel-aire-pancake-house
+VA,Waynesboro,Delly Up,Parkway BLT,no,13.0,13.0,unknown,included,,https://order.toasttab.com/online/delly-up-421-w-main-st
+PA,Easton,The State Cafe and Grill,BLT,yes,11.39,11.39,unknown,included,,https://thestatecafeandgrill.toast.site/order
+MS,Oxford,Big Bad Breakfast,Big Bad BLT,no,14.3,14.3,unknown,included,,https://order.online/business/150870/store/big-bad-breakfast-oxford-ms-33585527?pickup=true
+SC,Travelers Rest,The Traveler,"Bacon, Lettuce, & Tomato Sandwich",yes,8.99,8.99,unknown,included,,https://thetraveler.cloveronline.com/menu/all
+NM,Santa Fe,Plaza Cafe Downtown,BLT&A,no,17.0,17.0,urban,excluded,Second price from a restaurant already counted,https://plazacafedowntown.toast.site/order
+VT,Burlington,Kountry Kart Deli,B.L.T SANDWICH,yes,12.95,12.95,small_city,included,,https://order.spoton.com/fss-kountry-kart-deli-9390/burlington-vt/6297ac1824b4c42025c5bca0
+VT,Burlington,Kountry Kart Deli,"6"" B.L.T SUB",yes,8.95,8.95,unknown,excluded,Second price from a restaurant already counted,https://order.spoton.com/fss-kountry-kart-deli-9390/burlington-vt/6297ac1824b4c42025c5bca0
+WA,Bellingham,The Daisy Cafe,BLTTA Sandwich,no,13.5,13.5,urban,included,,https://thedaisycafe.square.site/s/order
+KY,Warsaw,West Side Diner,Double Decker BLT,no,13.0,13.0,unknown,included,,https://westsidediner.toast.site/
+KY,Columbia,Happy Cow Cafe,BLT w/ Cow Tail Fries,yes,11.99,11.99,unknown,included,,https://happycowcafe.toast.site/order
+KY,Harrodsburg,Kayla's Diner,BLT,yes,4.69,4.69,unknown,included,,https://www.kaylasdiner.com/
+HI,Honokaa,Gramma's Kitchen,BLT Mountain High,yes,16.95,16.95,rural,included,,https://grammas-kitchen.square.site/s/order
+KS,Saint Marys,Sugar Creek Country Store,#9 BLT,yes,7.29,7.29,unknown,included,,https://www.sugarcreekcountrystore.com/s/order
+KS,Hays,BREAKS Eatery & Bar,BELT / +A,no,13.0,13.0,unknown,included,,https://breakseatery.com/menu/tbd-3203-vine-street
+OH,Burton,JC's Restaurant,BLT,yes,10.99,10.99,unknown,included,,https://jcs.restaurant/
+SD,Brookings,Agua Fresh,B.L.A.T Combo,no,17.83,17.83,small_city,excluded,"Price includes a drink, sides or dessert (bundle)",https://order.online/business/11402539/store/24517703?pickup=true&redirected=true
+NJ,Woodstown,Woodstown Diner,BLT Cold Sandwich,yes,12.99,12.99,unknown,included,,https://woodstowndiner.square.site/s/order
+AR,Fayetteville,TJ's Sandwich Shop,BLT,yes,10.95,10.95,urban,included,,https://tjssandwichshop.com/menu
